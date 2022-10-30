@@ -1,0 +1,1533 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 SD" tvg-logo="http://nettvgo.in:2052/images/79d2084cc8d95b088de306bc21c199d1.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 SD
+http://c1.3espp.top:80/96448/45841/1
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 HD" tvg-logo="http://nettvgo.in:2052/images/d970c88440b147257ed1e89c43348189.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
+http://c1.3espp.top:80/96448/45841/2
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 FHD" tvg-logo="http://nettvgo.in:2052/images/d970c88440b147257ed1e89c43348189.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 FHD
+http://c1.3espp.top:80/96448/45841/3
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="http://nettvgo.in:2052/images/d88ec3a488fb6a82f0aae2fb9d7f77ba.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2 SD
+http://c1.3espp.top:80/96448/45841/4
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 HD" tvg-logo="http://nettvgo.in:2052/images/d88ec3a488fb6a82f0aae2fb9d7f77ba.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2 HD
+http://c1.3espp.top:80/96448/45841/5
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 FHD" tvg-logo="http://nettvgo.in:2052/images/d88ec3a488fb6a82f0aae2fb9d7f77ba.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2 FHD
+http://c1.3espp.top:80/96448/45841/6
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 SD" tvg-logo="http://nettvgo.in:2052/images/a224afdc2f3d07defac14c0372d18745.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 SD
+http://c1.3espp.top:80/96448/45841/7
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="http://nettvgo.in:2052/images/a224afdc2f3d07defac14c0372d18745.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 HD
+http://c1.3espp.top:80/96448/45841/8
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 FHD" tvg-logo="http://nettvgo.in:2052/images/a224afdc2f3d07defac14c0372d18745.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 FHD
+http://c1.3espp.top:80/96448/45841/9
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO SD" tvg-logo="http://nettvgo.in:2052/images/f77725a8c3685dac1218f4af58dc6a9b.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO SD
+http://c1.3espp.top:80/96448/45841/10
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="http://nettvgo.in:2052/images/f05f122abf21333422d46df6990398bd.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
+http://c1.3espp.top:80/96448/45841/11
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="CUATRO FHD" tvg-logo="http://nettvgo.in:2052/images/f05f122abf21333422d46df6990398bd.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO FHD
+http://c1.3espp.top:80/96448/45841/12
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO SD" tvg-logo="http://nettvgo.in:2052/images/02e9364592c3568859f6a63e735f626d.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO SD
+http://c1.3espp.top:80/96448/45841/13
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="http://nettvgo.in:2052/images/02e9364592c3568859f6a63e735f626d.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO HD
+http://c1.3espp.top:80/96448/45841/14
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD" tvg-logo="http://nettvgo.in:2052/images/02e9364592c3568859f6a63e735f626d.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO FHD
+http://c1.3espp.top:80/96448/45841/15
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA SD" tvg-logo="http://nettvgo.in:2052/images/a90789cc54d1b52419b1c5b3115fc4ce.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA SD
+http://c1.3espp.top:80/96448/45841/16
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="http://nettvgo.in:2052/images/a90789cc54d1b52419b1c5b3115fc4ce.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA HD
+http://c1.3espp.top:80/96448/45841/17
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="LA SEXTA FHD" tvg-logo="http://nettvgo.in:2052/images/a90789cc54d1b52419b1c5b3115fc4ce.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA FHD
+http://c1.3espp.top:80/96448/45841/18
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS SD" tvg-logo="http://nettvgo.in:2052/images/e99a5dfbf106f88f77fcea9e3ae64abc.png" group-title="TELEVISION DIGITAL TERRESTRE",24 HORAS SD
+http://c1.3espp.top:80/96448/45841/19
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS HD" tvg-logo="http://nettvgo.in:2052/images/e99a5dfbf106f88f77fcea9e3ae64abc.png" group-title="TELEVISION DIGITAL TERRESTRE",24 HORAS HD
+http://c1.3espp.top:80/96448/45841/20
+#EXTINF:-1 tvg-id="TELEMADRID" tvg-name="TELEMADRID SD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TELEMADRID SD
+http://c1.3espp.top:80/96448/45841/21
+#EXTINF:-1 tvg-id="TELEMADRID" tvg-name="TELEMADRID HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TELEMADRID HD
+http://c1.3espp.top:80/96448/45841/22
+#EXTINF:-1 tvg-id="TELEMADRID" tvg-name="TELEMADRID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Telemadrid-Sat-Logo.svg/1200px-Telemadrid-Sat-Logo.svg.png" group-title="TELEVISION DIGITAL TERRESTRE",TELEMADRID FHD
+http://c1.3espp.top:80/96448/45841/23
+#EXTINF:-1 tvg-id="TVG" tvg-name="TVG" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG
+http://c1.3espp.top:80/96448/45841/24
+#EXTINF:-1 tvg-id="tvg2" tvg-name="TVG 2" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG 2
+http://c1.3espp.top:80/96448/45841/25
+#EXTINF:-1 tvg-id="" tvg-name="TVG MOMENTO" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG MOMENTO
+http://c1.3espp.top:80/96448/45841/26
+#EXTINF:-1 tvg-id="" tvg-name="TVG EUROPA" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG EUROPA
+http://c1.3espp.top:80/96448/45841/27
+#EXTINF:-1 tvg-id="" tvg-name="TVG AMERICA" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG AMERICA
+http://c1.3espp.top:80/96448/45841/28
+#EXTINF:-1 tvg-id="" tvg-name="TVG EVENTO 1" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG EVENTO 1
+http://c1.3espp.top:80/96448/45841/29
+#EXTINF:-1 tvg-id="" tvg-name="TVG Musigal" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TVG Musigal
+http://c1.3espp.top:80/96448/45841/30
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",ETB 1
+http://c1.3espp.top:80/96448/45841/31
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB 2" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",ETB 2
+http://c1.3espp.top:80/96448/45841/32
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3CAT" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TV3CAT
+http://c1.3espp.top:80/96448/45841/33
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3 Catalunya HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TV3 Catalunya HD
+http://c1.3espp.top:80/96448/45841/34
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS EN ESPAÑOL" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",EURONEWS EN ESPAÑOL
+http://c1.3espp.top:80/96448/45841/37
+#EXTINF:-1 tvg-id="" tvg-name="TV GIRONA" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",TV GIRONA
+http://c1.3espp.top:80/96448/45841/38
+#EXTINF:-1 tvg-id="" tvg-name="101TV Malaga" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",101TV Malaga
+http://c1.3espp.top:80/96448/45841/40
+#EXTINF:-1 tvg-id="" tvg-name="Canal Parlamento" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Canal Parlamento
+http://c1.3espp.top:80/96448/45841/41
+#EXTINF:-1 tvg-id="La 7 HD" tvg-name="7 Televisión Región de Murcia" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",7 Televisión Región de Murcia
+http://c1.3espp.top:80/96448/45841/42
+#EXTINF:-1 tvg-id="" tvg-name="Hamaika Telebista" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Hamaika Telebista
+http://c1.3espp.top:80/96448/45841/43
+#EXTINF:-1 tvg-id="" tvg-name="Interalmeria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Interalmeria_tv_logo.png" group-title="TELEVISION DIGITAL TERRESTRE",Interalmeria TV
+http://c1.3espp.top:80/96448/45841/44
+#EXTINF:-1 tvg-id="" tvg-name="TVM Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LOGO_TVM.png/1200px-LOGO_TVM.png" group-title="TELEVISION DIGITAL TERRESTRE",TVM Córdoba
+http://c1.3espp.top:80/96448/45841/46
+#EXTINF:-1 tvg-id="" tvg-name="Ribera TV" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Ribera TV
+http://c1.3espp.top:80/96448/45841/47
+#EXTINF:-1 tvg-id="" tvg-name="Bon Dia TV" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Bon Dia TV
+http://c1.3espp.top:80/96448/45841/48
+#EXTINF:-1 tvg-id="" tvg-name="Televisión de Galicia América" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Televisión de Galicia América
+http://c1.3espp.top:80/96448/45841/49
+#EXTINF:-1 tvg-id="TVGA" tvg-name="Tv Galicia" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Tv Galicia
+http://c1.3espp.top:80/96448/45841/50
+#EXTINF:-1 tvg-id="" tvg-name="101 Tele Antequera" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",101 Tele Antequera
+http://c1.3espp.top:80/96448/45841/53
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria TV" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Solidaria TV
+http://c1.3espp.top:80/96448/45841/55
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Canal Extremadura
+http://c1.3espp.top:80/96448/45841/56
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COSTA TV" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",CANAL COSTA TV
+http://c1.3espp.top:80/96448/45841/57
+#EXTINF:-1 tvg-id="" tvg-name="LA 7" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",LA 7
+http://c1.3espp.top:80/96448/45841/58
+#EXTINF:-1 tvg-id="" tvg-name="Costa del Sol TV" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Costa del Sol TV
+http://c1.3espp.top:80/96448/45841/61
+#EXTINF:-1 tvg-id="" tvg-name="Canal San Roque" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Canal San Roque
+http://c1.3espp.top:80/96448/45841/62
+#EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Popular TV Cantabria
+http://c1.3espp.top:80/96448/45841/63
+#EXTINF:-1 tvg-id="" tvg-name="Onda Algeciras Televisión" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Onda Algeciras Televisión
+http://c1.3espp.top:80/96448/45841/64
+#EXTINF:-1 tvg-id="" tvg-name="Radio Televisión Melilla" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Radio Televisión Melilla
+http://c1.3espp.top:80/96448/45841/66
+#EXTINF:-1 tvg-id="" tvg-name="RTVC" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",RTVC
+http://c1.3espp.top:80/96448/45841/67
+#EXTINF:-1 tvg-id="CanalSurHD" tvg-name="Canal Sur Andalucía HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",Canal Sur Andalucía HD
+http://c1.3espp.top:80/96448/45841/68
+#EXTINF:-1 tvg-id="" tvg-name="TV Melilla" tvg-logo="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F448152%2Ftelevision-melilla&amp;psig=AOvVaw0o9lR_Ww_wafevXQh1GQWl&amp;ust=1663888713842000&amp;source=images&amp;cd=vfe&amp;ved=0CAwQjRxqFwoTCKC6vtCCp_oCFQAAAAAdAAAAABAD" group-title="TELEVISION DIGITAL TERRESTRE",TV Melilla
+http://c1.3espp.top:80/96448/45841/71
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",ENERGY HD
+http://c1.3espp.top:80/96448/45841/157
+#EXTINF:-1 tvg-id="fdftelecinco.es" tvg-name="FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FDF_Telecinco.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF SD
+http://c1.3espp.top:80/96448/45841/158
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FDF_Telecinco.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF HD
+http://c1.3espp.top:80/96448/45841/159
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="data:image/jpeg;base64,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" group-title="TELEVISION DIGITAL TERRESTRE",NEOX SD
+http://c1.3espp.top:80/96448/45841/165
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="NEOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png" group-title="TELEVISION DIGITAL TERRESTRE",NEOX HD
+http://c1.3espp.top:80/96448/45841/166
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY SD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxATEBUSEBEWFhUVFhcYFhUXGBcVFRcYFxUXFxcZFRYYHSggGBomGxUXIjEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgAyAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABgcBBAUCA//EAEAQAAEDAQUDCQQIBgIDAAAAAAEAAgMRBAUSITEGQVEHEyJhcYGRobEycnPCJDM0UmKywdEUIyVCkuGC8UNTY//EABsBAQACAwEBAAAAAAAAAAAAAAACBAEDBQYH/8QANBEAAgECAwUFBwQDAQAAAAAAAAECAxEEITEFEkFRgRNhcZGhBhQiscHR4TJCYvAzUnIj/9oADAMBAAIRAxEAPwC8UREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREARFgoDKwVpXleUUDC+V2EDxJ4NG8qv7721nkJbBWNnHSQ9/wDb3KcYSloXcHs+ti38Cy4t6fnoT+23nBD9bK1vUTn3DVcK0bd2VvsiR/Y0AeJKrZz3E1cak6k5k9pK8reqC4noaPs/h4/5JOT8l6fcsA8oUe6zv/yb+y+kG38BPShkHWMLv1CrtFnsYFl7Fwb/AGvzf3ZbVh2pscho2UNP3X9A+JyXZY8EVBqFRi6V1X5abOaxyGm9hzYe46dyhKhyZz8R7PRtejPpL7r7Fyooxs9tbFaKNf0JPuk9Fx/A47+oqTBaGmnZnna1CpQnuVFZ/wB05mURFg1BERAEREAREQBERAEREAREQBcq+r3js8ZfJ2NaPac7gP1O5b9omaxrnONGtBJPADMqodor3daJi85NFQxvBufma5rZThvM6WzMB73U+L9C1+iXj6I+V8XpLaJMcp6mtHstHAD9d60URXEktD3EIRhFRirJaIIiLJMIi+9ks4kdQyNZ+J5IHkCsNkW0ldnwRSiLYe0uAc2SFwIqCHOII4jorUvfZWezxmR5YWggHC4kiumoUFUi9H8yrHH4aUlFVFd5Wvx8jhg007lPdjtqi8iC0O6RyY8/3bsLidXcDvUBWQaZrM4KSM4vB08VT7Op0fFPmvquK6NXqFlRjYy/P4iLC8/zY6B34hlR3bxUnVJpp2Z4KtRnQqOnPVf2/XUIiLBqCIiAIiIAiIgCIiALBWVgoYZDOUO88MbYGnOQ1d7gJy7z6KvF2tsLZzltl4MPNjsaTXzBXFV2nG0Ue+2Xh1QwsI8WrvxeforLoERFsOgERe4YXuOFjXOPBoqfAIDwsgZ0Gu70XQkuK0NpjjLa6YyGE9xNVu7O3PIbZGyVhaAecz0LWGuRGRzoob6WaZWniqMIuW8nZN5NXy+5ZVzWbmrPFHvaxoPbSp81HeUi2AQNi3yOqexo/chS8qqtt7bzlreAejEBGO0El3mfJVqSvO55LY9OVfGqcuF5Px4erI+URFcPbHS2evIwWhkg0rR/Ww5H9+5XFG8EAg1B3qjP2Vs7H23nbHE4mpaMB7Wj9qKtXWjPM+0OH+GFdf8AL+a+p3URFXPMBERAEREAREQBERAF4e6gJ4L2vnN7J7D6IYZSFqkxPc473E+JJXzWZNT2n1WF0T6da2QQItu6LC6eZkTdXHM8Bq4+Cw3YjKSit56LU6uy+zb7ScbjgiaaEjV3UzLz3KXXzLFYLKeYa1rnHC3iTTNzjq6gBK79jsrIo2xxgBrRQDqVecoVux2gRg5Rtp/ydUnyoFVT7SWeh5OlXntPFqM/8au93hZaX5tu1+WdrEZmne9xc8lxJ6Rcakqe8nEL+akeXHCX4Wt3CgGIhu7UacFX4FVcOzljENmjj3hoJ95wqfVbKzysdLb1bcwqp/7O3glm7cuCy5m1eNqEcT5Doxpd4DLzVLTSlzy52riSe0mpVj8odtw2YRg5yuofdAqfPCq1SgrJshsChu0JVX+5+i/N/IIiLed8KxuTaWtnkZ92Sv8Ak0fsq5Vg8mQ/lTH8bfy/7Wmt+k5O2lfBS8V80TULKIqh4gIiIAiIgCIiAIiIAiLBQFK3zZ+btErPuyOHdiy8itNSrlDu/BaBKBlI3P3hl6UUVV6DvFM+iYOsq9CFRcUvPR+twpjybWUGaWQj2W4R1Fxz8gocppya2tofLETm4BzevDUGnisVf0MrbWcvc6m7yXldX9CezSBrS52QaCT2AVPoqWt9pMsr3u1c5zvE5eSs/bS183YpKavoz/LXyqqoG5a6C1ZzvZ2hanOq+Lt5Zv6HU2ZsXPWqJtKjFicPwg1PoPFXCFA+Taw152cjhG3yc75VNbVaAxjnu0a0uPcKqFaV5HO25XdTFdmv2pLq9fouhWu3tv5y1loOUTQzvqS71p3KN0K7Vx2P+LtlJTk4ukfxNHVp31Vhz7O2R0eDmWAUpVoAcOsO1WxzVO0Ts1cfR2bGGHkm7RV7cPPW7uyokWxeNm5uV8ZNcDi2vYVrrcjtJpq6Cszk9gw2Mup7cjj3ANaPQqtY4yXBrRUk0A4kmgCui6bIIoI4x/Y0Dv3+dVprvJI4PtBW3cPGnxk/Rflo3URFVPIhERAEREAREQBERAFghZRAcXae6f4izuYPaHSYfxDd36Ko3NOhyIJBG/Lcr1Kge3OzhNbTC2v/ALGjxxj9fFb6M7ZM9BsPHKnLsJvJu68eXX5+JBV9LNaHMc17HFrmmrSNx/bqXzIRWT1bV8mS2XaqK0QmC1xO3ESR0yI0cGu9Fw8FlGeKV/ABrY/E1OXYFzkUFBLQrUcJTopxpXinnZPLpe9uhMNn9r4YIjGYKAOJbgzFD94uNS7rW9bNtLNKx0bopcL2lpph0PeoCiw6UW7leeycLOo6jTu3f9T18zpwW5lntDZbKXEDdIACa6g4d1FKJuUAc30ISH03kFoPqVBEWXTT1NtfZ9CvJSqq7XG79eZ6lkLnFzjUuJJPWdV5RdC5bpktEvNsHvO3NbXMnr4BTbSRanONOLlJ2S17kdzYG6DJLz7h0Iz0euTKngM/BWS3Rat22FkMTY4xRrRQcTxJ6ytxUpy3nc8Fj8Y8VWdTRaJd351YREUCmEREAREQBERAEREAREQBeSF6RAQLajY6pMtlbrm6Mcdaxj5fBQZzSCQQQRqDkR2gq9SFx732cs1ozkZR257cnd53963Qq2Vmd/A7blTShXzXPj15+afiVCil14bCzMzhc2QcD0X+ByKj9pua0x+3DIP+LiPEKwpxlxPSUcZQrK9OafWz8nn6Gii9GJ33T4FfWGxSu9mN7uxrj6BSyLLyzZ8EXcsWyVsf/wCPAOMlW+WqlVzbDwx0dMecP3cwyvq7vUJVYo5+I2rhaGs03yjm/t5kPuO4J7S7ojCwe08+yOpv3j2Kz7oumKzRCOMdrj7TjxJW5FEGtDWgADIACgHYF9lWnUcjymP2lUxb3XlH/X6t8X8jAWURaznBERAEREAREQBERAEREARFo3jeLIWF8gdhGpa0uAHE00QzGLk0krtm8i5N039Z7Q5zYSSWgEgimRyqOKXlftnhe1krw1ztBStAcqupoFndd7G33erv9nuPe5Wd+eh1kXlrqr0sGkxRYwr0uVeN/WaF7WSyBrnUy1oDkC7gFlEoUpVJbsE2+SzZ0i0dXgsgLDHV7F7WCFkzyGrICyvD3UFdwQaHtFyrtv2zzOcyKQOc3UaVGlW11C6lUasTqQlTluzTT5PIyixVZQiEREAREQBERAEREARFgoD4zTtY0ue4NaNXONAO8rk33b432OYtdUOidhNCAat3EjNRDa23ultzYa9CN7Ghu4moxE8dadym+0YH8JP8N/opuNrd50/c+wdCUnnNp+CureLzuyG8nB/nyn/5H87V0doLJYJ5w+S0BjhRrm6VAOVQ4dE56rncm318vw/matXlBb9NPw2epH6Lc1err/bHbnSdXa7jGTi91Zq3hxT/AAT2W87PDha+RrMgG4sqgDcd+S2rLa45G4o3BzTWjmmoy1XCv67udu8UzcyNj2drWCoHaK+S4XJzeJbI+zuOThjb7wpXxGfctSjeNzhQwMamEnWg3vQfxLK1ufPPXoycSXhE2QRufR50bQ1PZkotf9lu+ecPktIY4Ua5tWitDkDi9k9alMYxSOf93oN8i7zoO5V3ygD6adPq2fqs01eWRv2NR7TE7sZSi93VW58mvDwaLAntsMLRjeGNoA0mtKDTPRIL2geCY5WvpkcJqfAZrm3+P6Y/4LPlUe5NGjnJvcb6qKheLZppYGE8HUxF3eLtbKzzXdlr6EzhvSBzjGJG4xqwnC7/ABOa93jaImxnnXAMIIJNaUIoakaaqD8o8dJoXA0JZqMj0SaHzUlsM7pLuEjzVxgfU8SGuFT4I42ipczFXAxhRpV4t2m7NcU7vR2twfDWxz9lrssccz3wTiR+E9Grei0kV013Cq8bZ7QhkYjglIkLx7NQQ0A1rlvXE5PftZ+E75V9uUj7TF8Ifnctu7/6pPM7Huie1VCrJz+G93bhfJpKzXRZ63JfdV5s/honyPNTG0ucQ7WmZJpRbFlvizyOwRzMc7WgOdAvNxt+iQfCj/IFXN6xmx2+rBk14kbwLCa08KjuWuEd45mGwNPFVa1O7Uldx0s83lp4dH3FoWi1MY0ueaNGpzy7aL1Zp2vaHMNWnMHitSacSRsDDUS0ofwEYnHwy710BpkoHKtaOeuf2+feekRFgwEREAREQBYKyiArDaqxuit4kIOCSRjwd1Q4Ajty81O9o/sc/wAN/oVt2uyxyNwSMDmnUEVH+l8BdkWDAcTmUpgc5zm04UJ9VNyvbuOjVx6qqi5LOnr3pNW8HZW5EI5Nj/Pl+GfzNWrygfbD8NnqVOrLs7ZYnY4osDtKtc4GnivNp2asj3F0kWJx1LnOJPmp9ot/eOhHa1BY94q0rbtrWV+H8jdu/wCpj+G38oVa2ywyWe8g2EZmQOjG4h7uiDxAzB7FZdjsbYmhrKho0BJdQcBXQLzNdsT5WyuYC9go128BQhLduc/A45YapNtXjJNW7+F/k+5s+lniDWhvDz3k+Krjb/7afhs/VWdhXItGzNke4vfFicdXEuJPfVZpyUZXZnZWMhhK/a1LvLhbmubRrX+f6W/4LPlUe5NPrJvdb6qXyXJA6PmnNcWCnQL34ctN682PZ+zROxwx4HaVa52Y4HPMIpJQceZOnjaMMHUw+d5O6dlbh/LuInymfWQ+671XduQ/0tvwZPmW/bNn7LK7HLHjdpVznGg4DPIL1HccDYzE1rgw1qwPfhz1yqjknFRM1MbSlhKVBXvCV27Lm3l8XeQXk9P00/Cd8q2OUg/SI/hfO5S2zbNWSNwfHFhcNHNLgR5r1a9nbLK7FLHjdxc5xNOGql2i394tva1B45Yq0rKNrWV+P8u8+uz32SD4TPyqOcot3Yo2TtGbDgd7prTwd6qUWOwxwtwxgho0bUkDsqclFrw2mbLLJZDC4h5dED/djxYQcJ0AOeu5Qhe91wKeAdWWMdaim0m5PRfC7348uCubmwYkNma6TQYmM9wGpPjl2BSpal32RsUbI26MaG+A171tqMndlHE1VVrTqJWTba8AiIsGgIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIDBC0W3VAJTMIm84dX0z/wC+tb6ISUpK9nrkEREIhERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQH/9k=" group-title="TELEVISION DIGITAL TERRESTRE",DIVINITY SD
+http://c1.3espp.top:80/96448/45841/167
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="TELEVISION DIGITAL TERRESTRE",DIVINITY HD
+http://c1.3espp.top:80/96448/45841/168
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA SD" tvg-logo="https://thp.org.au/wp-content/uploads/2019/06/Nova-logo.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA SD
+http://c1.3espp.top:80/96448/45841/169
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="NOVA HD" tvg-logo="https://thp.org.au/wp-content/uploads/2019/06/Nova-logo.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA HD
+http://c1.3espp.top:80/96448/45841/170
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA SD" tvg-logo="https://imagenpng.com/wp-content/uploads/2015/04/mega.png" group-title="TELEVISION DIGITAL TERRESTRE",MEGA SD
+http://c1.3espp.top:80/96448/45841/300
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="TELEVISION DIGITAL TERRESTRE",MEGA HD
+http://c1.3espp.top:80/96448/45841/301
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="TELEVISION DIGITAL TERRESTRE",MEGA FHD
+http://c1.3espp.top:80/96448/45841/302
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="NOVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA FHD
+http://c1.3espp.top:80/96448/45841/1501
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Musica",MTV SD
+http://c1.3espp.top:80/96448/45841/327
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Musica",MTV HD
+http://c1.3espp.top:80/96448/45841/328
+#EXTINF:-1 tvg-id="" tvg-name="M+ SOL MUSICA SD" tvg-logo="" group-title="Musica",M+ SOL MUSICA SD
+http://c1.3espp.top:80/96448/45841/329
+#EXTINF:-1 tvg-id="" tvg-name="M+ SOL MUSICA HD" tvg-logo="" group-title="Musica",M+ SOL MUSICA HD
+http://c1.3espp.top:80/96448/45841/330
+#EXTINF:-1 tvg-id="" tvg-name="M+ SOL MUSICA FHD" tvg-logo="" group-title="Musica",M+ SOL MUSICA FHD
+http://c1.3espp.top:80/96448/45841/331
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="Musica",MEZZO
+http://c1.3espp.top:80/96448/45841/332
+#EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS SD" tvg-logo="" group-title="Musica",M+ NEGOCIOS SD
+http://c1.3espp.top:80/96448/45841/333
+#EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS HD" tvg-logo="" group-title="Musica",M+ NEGOCIOS HD
+http://c1.3espp.top:80/96448/45841/334
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="Musica",MEZZO LIVE HD
+http://c1.3espp.top:80/96448/45841/335
+#EXTINF:-1 tvg-id="" tvg-name="FEST SD" tvg-logo="" group-title="Musica",FEST SD
+http://c1.3espp.top:80/96448/45841/322
+#EXTINF:-1 tvg-id="" tvg-name="FEST HD" tvg-logo="" group-title="Musica",FEST HD
+http://c1.3espp.top:80/96448/45841/323
+#EXTINF:-1 tvg-id="" tvg-name="FEST FHD" tvg-logo="" group-title="Musica",FEST FHD
+http://c1.3espp.top:80/96448/45841/324
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="" group-title="DOCUMENTALES",A&E SD
+http://c1.3espp.top:80/96448/45841/175
+#EXTINF:-1 tvg-id="" tvg-name="M+ NAUTICAL SD" tvg-logo="" group-title="DOCUMENTALES",M+ NAUTICAL SD
+http://c1.3espp.top:80/96448/45841/270
+#EXTINF:-1 tvg-id="" tvg-name="M+ NAUTICAL HD" tvg-logo="" group-title="DOCUMENTALES",M+ NAUTICAL HD
+http://c1.3espp.top:80/96448/45841/271
+#EXTINF:-1 tvg-id="" tvg-name="M+ NAUTICAL FHD" tvg-logo="" group-title="DOCUMENTALES",M+ NAUTICAL FHD
+http://c1.3espp.top:80/96448/45841/272
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO SD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO SD
+http://c1.3espp.top:80/96448/45841/273
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO HD
+http://c1.3espp.top:80/96448/45841/274
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO FHD
+http://c1.3espp.top:80/96448/45841/275
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+ INVESTIGACION SD" tvg-logo="" group-title="DOCUMENTALES",CRIMEN+ INVESTIGACION SD
+http://c1.3espp.top:80/96448/45841/276
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIMEN HD" tvg-logo="" group-title="DOCUMENTALES",AMC CRIMEN HD
+http://c1.3espp.top:80/96448/45841/277
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+ INVESTIGACION FHD" tvg-logo="" group-title="DOCUMENTALES",CRIMEN+ INVESTIGACION FHD
+http://c1.3espp.top:80/96448/45841/278
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA SD" tvg-logo="" group-title="DOCUMENTALES",CANAL DE CASA SD
+http://c1.3espp.top:80/96448/45841/285
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA HD" tvg-logo="" group-title="DOCUMENTALES",CANAL DE CASA HD
+http://c1.3espp.top:80/96448/45841/286
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA FHD" tvg-logo="" group-title="DOCUMENTALES",CANAL DE CASA FHD
+http://c1.3espp.top:80/96448/45841/287
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY SD
+http://c1.3espp.top:80/96448/45841/291
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY HD
+http://c1.3espp.top:80/96448/45841/292
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY FHD
+http://c1.3espp.top:80/96448/45841/293
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO WILD SD
+http://c1.3espp.top:80/96448/45841/294
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO WILD HD
+http://c1.3espp.top:80/96448/45841/295
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO WILD FHD
+http://c1.3espp.top:80/96448/45841/296
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD SD" tvg-logo="" group-title="DOCUMENTALES",BE MAD SD
+http://c1.3espp.top:80/96448/45841/297
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="DOCUMENTALES",BE MAD HD
+http://c1.3espp.top:80/96448/45841/298
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD FHD" tvg-logo="" group-title="DOCUMENTALES",BE MAD FHD
+http://c1.3espp.top:80/96448/45841/299
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA SD" tvg-logo="" group-title="DOCUMENTALES",ODISEA SD
+http://c1.3espp.top:80/96448/45841/303
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="" group-title="DOCUMENTALES",ODISEA HD
+http://c1.3espp.top:80/96448/45841/304
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA FHD" tvg-logo="" group-title="DOCUMENTALES",ODISEA FHD
+http://c1.3espp.top:80/96448/45841/305
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA SD" tvg-logo="" group-title="DOCUMENTALES",HISTORIA SD
+http://c1.3espp.top:80/96448/45841/306
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="DOCUMENTALES",HISTORIA HD
+http://c1.3espp.top:80/96448/45841/307
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="" group-title="DOCUMENTALES",HISTORIA FHD
+http://c1.3espp.top:80/96448/45841/308
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA SD" tvg-logo="" group-title="DOCUMENTALES",CANAL COCINA SD
+http://c1.3espp.top:80/96448/45841/309
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="DOCUMENTALES",CANAL COCINA HD
+http://c1.3espp.top:80/96448/45841/310
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FHD" tvg-logo="" group-title="DOCUMENTALES",CANAL COCINA FHD
+http://c1.3espp.top:80/96448/45841/311
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="DOCUMENTALES",CAZA Y PESCA SD
+http://c1.3espp.top:80/96448/45841/312
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="DOCUMENTALES",CAZA Y PESCA HD
+http://c1.3espp.top:80/96448/45841/313
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA HD" tvg-logo="" group-title="DOCUMENTALES",IBERALIA HD
+http://c1.3espp.top:80/96448/45841/314
+#EXTINF:-1 tvg-id="" tvg-name="Horse TV SD" tvg-logo="" group-title="DOCUMENTALES",Horse TV SD
+http://c1.3espp.top:80/96448/45841/315
+#EXTINF:-1 tvg-id="" tvg-name="Horse TV HD" tvg-logo="" group-title="DOCUMENTALES",Horse TV HD
+http://c1.3espp.top:80/96448/45841/316
+#EXTINF:-1 tvg-id="" tvg-name="Horse TV FHD" tvg-logo="" group-title="DOCUMENTALES",Horse TV FHD
+http://c1.3espp.top:80/96448/45841/317
+#EXTINF:-1 tvg-id="" tvg-name="TEN SD" tvg-logo="" group-title="DOCUMENTALES",TEN SD
+http://c1.3espp.top:80/96448/45841/318
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="DOCUMENTALES",DMAX
+http://c1.3espp.top:80/96448/45841/319
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="DOCUMENTALES",AMC BREAK
+http://c1.3espp.top:80/96448/45841/320
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="DOCUMENTALES",DMAX HD
+http://c1.3espp.top:80/96448/45841/1506
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="" group-title="DOCUMENTALES",AMC BREAK FHD
+http://c1.3espp.top:80/96448/45841/1505
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA FHD" tvg-logo="" group-title="DOCUMENTALES",IBERALIA FHD
+http://c1.3espp.top:80/96448/45841/1504
+#EXTINF:-1 tvg-id="" tvg-name="CAZA y PESCA FHD" tvg-logo="" group-title="DOCUMENTALES",CAZA y PESCA FHD
+http://c1.3espp.top:80/96448/45841/374
+#EXTINF:-1 tvg-id="" tvg-name="DKISS SD" tvg-logo="" group-title="DOCUMENTALES",DKISS SD
+http://c1.3espp.top:80/96448/45841/321
+#EXTINF:-1 tvg-id="" tvg-name="Xena La Princesa Guerrera 24/7" tvg-logo="" group-title="MTK TV",Xena La Princesa Guerrera 24/7
+http://c1.3espp.top:80/96448/45841/1839
+#EXTINF:-1 tvg-id="" tvg-name="El Principe de Bel Air Temp 1 24/7" tvg-logo="" group-title="MTK TV",El Principe de Bel Air Temp 1 24/7
+http://c1.3espp.top:80/96448/45841/1840
+#EXTINF:-1 tvg-id="" tvg-name="Expedientes X Temp 1 24/7" tvg-logo="" group-title="MTK TV",Expedientes X Temp 1 24/7
+http://c1.3espp.top:80/96448/45841/1844
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Temp 1-5 24/7" tvg-logo="" group-title="MTK TV",Los Simpsons Temp 1-5 24/7
+http://c1.3espp.top:80/96448/45841/1846
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons HD 24/7" tvg-logo="" group-title="MTK TV",Los Simpsons HD 24/7
+http://c1.3espp.top:80/96448/45841/1847
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons La casa-árbol del terror SD 24/7" tvg-logo="" group-title="MTK TV",Los Simpsons La casa-árbol del terror SD 24/7
+http://c1.3espp.top:80/96448/45841/1848
+#EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7" tvg-logo="" group-title="MTK TV",Futurama 24/7
+http://c1.3espp.top:80/96448/45841/1850
+#EXTINF:-1 tvg-id="" tvg-name="Futurama HD 24/7" tvg-logo="" group-title="MTK TV",Futurama HD 24/7
+http://c1.3espp.top:80/96448/45841/1851
+#EXTINF:-1 tvg-id="" tvg-name="Padre de Familia 24/7" tvg-logo="" group-title="MTK TV",Padre de Familia 24/7
+http://c1.3espp.top:80/96448/45841/1852
+#EXTINF:-1 tvg-id="" tvg-name="Ben Y Holly 24/7" tvg-logo="" group-title="MTK TV",Ben Y Holly 24/7
+http://c1.3espp.top:80/96448/45841/1853
+#EXTINF:-1 tvg-id="" tvg-name="Fabulas de Disney 24/7" tvg-logo="" group-title="MTK TV",Fabulas de Disney 24/7
+http://c1.3espp.top:80/96448/45841/1854
+#EXTINF:-1 tvg-id="" tvg-name="Patrulla Canina 24/7" tvg-logo="" group-title="MTK TV",Patrulla Canina 24/7
+http://c1.3espp.top:80/96448/45841/1855
+#EXTINF:-1 tvg-id="" tvg-name="Vaca y Pollito 24/7" tvg-logo="" group-title="MTK TV",Vaca y Pollito 24/7
+http://c1.3espp.top:80/96448/45841/1856
+#EXTINF:-1 tvg-id="" tvg-name="Super Wings 24/7" tvg-logo="" group-title="MTK TV",Super Wings 24/7
+http://c1.3espp.top:80/96448/45841/1857
+#EXTINF:-1 tvg-id="" tvg-name="El Bebé Jefazo (Vuelta al curro) 24/7" tvg-logo="" group-title="MTK TV",El Bebé Jefazo (Vuelta al curro) 24/7
+http://c1.3espp.top:80/96448/45841/1858
+#EXTINF:-1 tvg-id="" tvg-name="Wabbit 24/7" tvg-logo="" group-title="MTK TV",Wabbit 24/7
+http://c1.3espp.top:80/96448/45841/1859
+#EXTINF:-1 tvg-id="" tvg-name="Kim Possible HD 24/7" tvg-logo="" group-title="MTK TV",Kim Possible HD 24/7
+http://c1.3espp.top:80/96448/45841/1860
+#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch HD 24/7" tvg-logo="" group-title="MTK TV",Lilo y Stitch HD 24/7
+http://c1.3espp.top:80/96448/45841/1861
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7" tvg-logo="" group-title="MTK TV",Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7
+http://c1.3espp.top:80/96448/45841/1862
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Santuario HD (41-73) 24/7" tvg-logo="" group-title="MTK TV",Caballeros del Zodiaco Santuario HD (41-73) 24/7
+http://c1.3espp.top:80/96448/45841/1863
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Asgard HD (74-99) 24/7" tvg-logo="" group-title="MTK TV",Caballeros del Zodiaco Asgard HD (74-99) 24/7
+http://c1.3espp.top:80/96448/45841/1864
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Poseidon HD (100-114) 24/7" tvg-logo="" group-title="MTK TV",Caballeros del Zodiaco Poseidon HD (100-114) 24/7
+http://c1.3espp.top:80/96448/45841/1865
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Hades HD (115-145) 24/7" tvg-logo="" group-title="MTK TV",Caballeros del Zodiaco Hades HD (115-145) 24/7
+http://c1.3espp.top:80/96448/45841/1866
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV BOX OFFICE 1HD" tvg-logo="" group-title="MTK TV",Prair TV BOX OFFICE 1HD
+http://c1.3espp.top:80/96448/45841/1867
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV BOX OFFICE 2HD" tvg-logo="" group-title="MTK TV",Prair TV BOX OFFICE 2HD
+http://c1.3espp.top:80/96448/45841/1868
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV BOX OFFICE 3HD" tvg-logo="" group-title="MTK TV",Prair TV BOX OFFICE 3HD
+http://c1.3espp.top:80/96448/45841/1869
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ACCION 1HD" tvg-logo="" group-title="MTK TV",Prair TV ACCION 1HD
+http://c1.3espp.top:80/96448/45841/1870
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ACCION 2HD" tvg-logo="" group-title="MTK TV",Prair TV ACCION 2HD
+http://c1.3espp.top:80/96448/45841/1871
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ACCION 3HD" tvg-logo="" group-title="MTK TV",Prair TV ACCION 3HD
+http://c1.3espp.top:80/96448/45841/1872
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ACCION 4HD" tvg-logo="" group-title="MTK TV",Prair TV ACCION 4HD
+http://c1.3espp.top:80/96448/45841/1873
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ACCION 5HD" tvg-logo="" group-title="MTK TV",Prair TV ACCION 5HD
+http://c1.3espp.top:80/96448/45841/1874
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 1HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 1HD
+http://c1.3espp.top:80/96448/45841/1875
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 2HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 2HD
+http://c1.3espp.top:80/96448/45841/1876
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 3HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 3HD
+http://c1.3espp.top:80/96448/45841/1877
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 4HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 4HD
+http://c1.3espp.top:80/96448/45841/1878
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 5HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 5HD
+http://c1.3espp.top:80/96448/45841/1879
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV NETFLIX 6HD" tvg-logo="" group-title="MTK TV",Prair TV NETFLIX 6HD
+http://c1.3espp.top:80/96448/45841/1880
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 1HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 1HD
+http://c1.3espp.top:80/96448/45841/1881
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 2HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 2HD
+http://c1.3espp.top:80/96448/45841/1882
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 3HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 3HD
+http://c1.3espp.top:80/96448/45841/1883
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 4HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 4HD
+http://c1.3espp.top:80/96448/45841/1884
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 5HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 5HD
+http://c1.3espp.top:80/96448/45841/1885
+#EXTINF:-1 tvg-id="" tvg-name="Prair TV ANIMACION 6HD" tvg-logo="" group-title="MTK TV",Prair TV ANIMACION 6HD
+http://c1.3espp.top:80/96448/45841/1886
+#EXTINF:-1 tvg-id="" tvg-name="MTK TV ANIMACION 7HD" tvg-logo="" group-title="MTK TV",MTK TV ANIMACION 7HD
+http://c1.3espp.top:80/96448/45841/1887
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 1 HD" tvg-logo="http://nettvgo.in:2052/images/c61cf17c1d5287f948e181a4d5d7b289.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 1 HD
+http://c1.3espp.top:80/96448/45841/361
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 2 HD" tvg-logo="http://nettvgo.in:2052/images/7d1b6ddf8ad6b69ac1e643ac952092f2.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 2 HD
+http://c1.3espp.top:80/96448/45841/362
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 3 HD" tvg-logo="http://nettvgo.in:2052/images/c24859063e8a6d3d9a3acd10e0b73ab1.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 3 HD
+http://c1.3espp.top:80/96448/45841/363
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 4 HD" tvg-logo="http://nettvgo.in:2052/images/2097d12313407cdc1b4135c5840e263a.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 4 HD
+http://c1.3espp.top:80/96448/45841/364
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 5 HD" tvg-logo="http://nettvgo.in:2052/images/eb0ac43e388902150e7a3ad147e8d1cd.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 5 HD
+http://c1.3espp.top:80/96448/45841/365
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 6 HD" tvg-logo="http://nettvgo.in:2052/images/cf7282f88262f9a75761819b4e9b13a9.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 6 HD
+http://c1.3espp.top:80/96448/45841/366
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 7 HD" tvg-logo="http://nettvgo.in:2052/images/07f5badd17de8b84b04b30cdf95ab49a.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 7 HD
+http://c1.3espp.top:80/96448/45841/367
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 8 HD" tvg-logo="http://nettvgo.in:2052/images/2b4b4dbc5b3df4a900f9416434e59705.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 8 HD
+http://c1.3espp.top:80/96448/45841/368
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ ALQUILER 9 HD" tvg-logo="http://nettvgo.in:2052/images/07f5badd17de8b84b04b30cdf95ab49a.png" group-title="Alquiler",ES: MOVISTAR+ ALQUILER 9 HD
+http://c1.3espp.top:80/96448/45841/369
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE SD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&amp;h=108&amp;tok=892a59&amp;media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbomcine.png" group-title="CINE Y SERIES",BOM CINE SD
+http://c1.3espp.top:80/96448/45841/84
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&amp;h=108&amp;tok=892a59&amp;media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbomcine.png" group-title="CINE Y SERIES",BOM CINE HD
+http://c1.3espp.top:80/96448/45841/85
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&amp;h=108&amp;tok=892a59&amp;media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbomcine.png" group-title="CINE Y SERIES",BOM CINE FHD
+http://c1.3espp.top:80/96448/45841/86
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hollywood-Logo.svg/1200px-Hollywood-Logo.svg.png" group-title="CINE Y SERIES",HOLLYWOOD SD
+http://c1.3espp.top:80/96448/45841/87
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hollywood-Logo.svg/1200px-Hollywood-Logo.svg.png" group-title="CINE Y SERIES",HOLLYWOOD HD
+http://c1.3espp.top:80/96448/45841/88
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hollywood-Logo.svg/1200px-Hollywood-Logo.svg.png" group-title="CINE Y SERIES",HOLLYWOOD FHD
+http://c1.3espp.top:80/96448/45841/89
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png" group-title="CINE Y SERIES",M+ ESTRENOS SD
+http://c1.3espp.top:80/96448/45841/90
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M.ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png" group-title="CINE Y SERIES",M.ESTRENOS HD
+http://c1.3espp.top:80/96448/45841/91
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png" group-title="CINE Y SERIES",M+ ESTRENOS FHD
+http://c1.3espp.top:80/96448/45841/92
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M+ ESTRENOS 2 SD
+http://c1.3espp.top:80/96448/45841/93
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M.ESTRENOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M.ESTRENOS 2 HD
+http://c1.3espp.top:80/96448/45841/94
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M+ ESTRENOS 2 FHD
+http://c1.3espp.top:80/96448/45841/95
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE Y SERIES",M+ COMEDIA SD
+http://c1.3espp.top:80/96448/45841/96
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE Y SERIES",M+ COMEDIA HD
+http://c1.3espp.top:80/96448/45841/97
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE Y SERIES",M+ COMEDIA FHD
+http://c1.3espp.top:80/96448/45841/98
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://assets.stickpng.com/images/61379c724b96600004f67719.png" group-title="CINE Y SERIES",COMEDY CENTRAL SD
+http://c1.3espp.top:80/96448/45841/99
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://assets.stickpng.com/images/61379c724b96600004f67719.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
+http://c1.3espp.top:80/96448/45841/100
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://assets.stickpng.com/images/61379c724b96600004f67719.png" group-title="CINE Y SERIES",COMEDY CENTRAL FHD
+http://c1.3espp.top:80/96448/45841/101
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1024px-Movistar_Drama.svg.png" group-title="CINE Y SERIES",M+ DRAMA SD
+http://c1.3espp.top:80/96448/45841/102
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1024px-Movistar_Drama.svg.png" group-title="CINE Y SERIES",M+ DRAMA HD
+http://c1.3espp.top:80/96448/45841/103
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1024px-Movistar_Drama.svg.png" group-title="CINE Y SERIES",M+ DRAMA FHD
+http://c1.3espp.top:80/96448/45841/104
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION SD" tvg-logo="https://www.pngfind.com/pngs/m/342-3426240_logo-movistar-accion-hd-png-download.png" group-title="CINE Y SERIES",M+ ACCION SD
+http://c1.3espp.top:80/96448/45841/105
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="C+ ACCION HD" tvg-logo="https://www.pngfind.com/pngs/m/342-3426240_logo-movistar-accion-hd-png-download.png" group-title="CINE Y SERIES",C+ ACCION HD
+http://c1.3espp.top:80/96448/45841/106
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION FHD" tvg-logo="https://www.pngfind.com/pngs/m/342-3426240_logo-movistar-accion-hd-png-download.png" group-title="CINE Y SERIES",M+ ACCION FHD
+http://c1.3espp.top:80/96448/45841/107
+#EXTINF:-1 tvg-id="M+Cine Espa&ntilde;ol" tvg-name="DCINE ESPANOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="CINE Y SERIES",DCINE ESPANOL SD
+http://c1.3espp.top:80/96448/45841/108
+#EXTINF:-1 tvg-id="M+Cine Espa&ntilde;ol" tvg-name="M+ DCINE ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="CINE Y SERIES",M+ DCINE ESPANOL HD
+http://c1.3espp.top:80/96448/45841/109
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="" group-title="CINE Y SERIES",M+ CINE ESPANOL FHD
+http://c1.3espp.top:80/96448/45841/110
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3 SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="CINE Y SERIES",A3 SERIES SD
+http://c1.3espp.top:80/96448/45841/111
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3 SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="CINE Y SERIES",A3 SERIES HD
+http://c1.3espp.top:80/96448/45841/112
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES SD
+http://c1.3espp.top:80/96448/45841/113
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES HD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES HD
+http://c1.3espp.top:80/96448/45841/114
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES FHD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES FHD
+http://c1.3espp.top:80/96448/45841/115
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 SD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES 2 SD
+http://c1.3espp.top:80/96448/45841/116
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 HD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES 2 HD
+http://c1.3espp.top:80/96448/45841/117
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 FHD" tvg-logo="" group-title="CINE Y SERIES",M+ SERIES 2 FHD
+http://c1.3espp.top:80/96448/45841/118
+#EXTINF:-1 tvg-id="" tvg-name="DARK SD" tvg-logo="" group-title="CINE Y SERIES",DARK SD
+http://c1.3espp.top:80/96448/45841/119
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="CINE Y SERIES",DARK HD
+http://c1.3espp.top:80/96448/45841/120
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="CINE Y SERIES",AMC SD
+http://c1.3espp.top:80/96448/45841/121
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="CINE Y SERIES",AMC HD
+http://c1.3espp.top:80/96448/45841/122
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="CINE Y SERIES",AMC FHD
+http://c1.3espp.top:80/96448/45841/123
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK SD" tvg-logo="" group-title="CINE Y SERIES",AMC BREAK SD
+http://c1.3espp.top:80/96448/45841/124
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK HD" tvg-logo="" group-title="CINE Y SERIES",AMC BREAK HD
+http://c1.3espp.top:80/96448/45841/125
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="" group-title="CINE Y SERIES",AMC BREAK FHD
+http://c1.3espp.top:80/96448/45841/126
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="CINE Y SERIES",AMC CRIME SD
+http://c1.3espp.top:80/96448/45841/127
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME HD" tvg-logo="" group-title="CINE Y SERIES",AMC CRIME HD
+http://c1.3espp.top:80/96448/45841/128
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="" group-title="CINE Y SERIES",FOX SD
+http://c1.3espp.top:80/96448/45841/129
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="CINE Y SERIES",FOX HD
+http://c1.3espp.top:80/96448/45841/130
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="" group-title="CINE Y SERIES",FOX FHD
+http://c1.3espp.top:80/96448/45841/131
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE Y SERIES",CALLE 13 SD
+http://c1.3espp.top:80/96448/45841/132
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CINE Y SERIES",CALLE 13 HD
+http://c1.3espp.top:80/96448/45841/133
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="CALLE 13 FHD" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg" group-title="CINE Y SERIES",CALLE 13 FHD
+http://c1.3espp.top:80/96448/45841/134
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE SD" tvg-logo="" group-title="CINE Y SERIES",SUNDANCE SD
+http://c1.3espp.top:80/96448/45841/135
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="" group-title="CINE Y SERIES",SUNDANCE HD
+http://c1.3espp.top:80/96448/45841/136
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="" group-title="CINE Y SERIES",SUNDANCE FHD
+http://c1.3espp.top:80/96448/45841/137
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE Y SERIES",AXN SD
+http://c1.3espp.top:80/96448/45841/138
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE Y SERIES",AXN HD
+http://c1.3espp.top:80/96448/45841/139
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE Y SERIES",AXN FHD
+http://c1.3espp.top:80/96448/45841/140
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE Y SERIES",AXN WHITE SD
+http://c1.3espp.top:80/96448/45841/141
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="CINE Y SERIES",AXN WHITE HD
+http://c1.3espp.top:80/96448/45841/142
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE Y SERIES",AXN WHITE FHD
+http://c1.3espp.top:80/96448/45841/143
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="CINE Y SERIES",TNT SD
+http://c1.3espp.top:80/96448/45841/144
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CINE Y SERIES",TNT HD
+http://c1.3espp.top:80/96448/45841/145
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="CINE Y SERIES",TNT FHD
+http://c1.3espp.top:80/96448/45841/146
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMOPOLITAN SD" tvg-logo="https://w7.pngwing.com/pngs/697/378/png-transparent-cosmopolitan-illustration-cosmopolitan-logo-magazine-the-kiss-quotient-fashion-magazine-miscellaneous-purple-company.png" group-title="CINE Y SERIES",COSMOPOLITAN SD
+http://c1.3espp.top:80/96448/45841/147
+#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN HD" tvg-logo="" group-title="CINE Y SERIES",COSMOPOLITAN HD
+http://c1.3espp.top:80/96448/45841/148
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMOPOLITAN FHD" tvg-logo="https://w7.pngwing.com/pngs/697/378/png-transparent-cosmopolitan-illustration-cosmopolitan-logo-magazine-the-kiss-quotient-fashion-magazine-miscellaneous-purple-company.png" group-title="CINE Y SERIES",COSMOPOLITAN FHD
+http://c1.3espp.top:80/96448/45841/149
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="" group-title="CINE Y SERIES",SYFY SD
+http://c1.3espp.top:80/96448/45841/150
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="CINE Y SERIES",SYFY HD
+http://c1.3espp.top:80/96448/45841/151
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="CINE Y SERIES",SYFY FHD
+http://c1.3espp.top:80/96448/45841/152
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="" group-title="CINE Y SERIES",TCM SD
+http://c1.3espp.top:80/96448/45841/153
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="CINE Y SERIES",TCM HD
+http://c1.3espp.top:80/96448/45841/154
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="" group-title="CINE Y SERIES",TCM FHD
+http://c1.3espp.top:80/96448/45841/155
+#EXTINF:-1 tvg-id="" tvg-name="XTRM SD" tvg-logo="" group-title="CINE Y SERIES",XTRM SD
+http://c1.3espp.top:80/96448/45841/160
+#EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="" group-title="CINE Y SERIES",XTRM HD
+http://c1.3espp.top:80/96448/45841/161
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/1024px-XTRM_Espa%C3%B1a.png" group-title="CINE Y SERIES",XTRM FHD
+http://c1.3espp.top:80/96448/45841/162
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="CINE Y SERIES",PARAMOUNT SD
+http://c1.3espp.top:80/96448/45841/163
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="CINE Y SERIES",PARAMOUNT HD
+http://c1.3espp.top:80/96448/45841/164
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M+ #0 SD
+http://c1.3espp.top:80/96448/45841/171
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0 HD" tvg-logo="" group-title="CINE Y SERIES",M+ #0 HD
+http://c1.3espp.top:80/96448/45841/172
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M+ #0 FHD
+http://c1.3espp.top:80/96448/45841/173
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="Aragon TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="CINE Y SERIES",Aragon TV SD
+http://c1.3espp.top:80/96448/45841/174
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="LA RESISTENCIA SD" tvg-logo="https://teatroarlequingranvia.com/wp-content/uploads/2020/02/LogoResistencia400-1.png" group-title="CINE Y SERIES",LA RESISTENCIA SD
+http://c1.3espp.top:80/96448/45841/176
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ RESISTENCIA HD" tvg-logo="https://teatroarlequingranvia.com/wp-content/uploads/2020/02/LogoResistencia400-1.png" group-title="CINE Y SERIES",M+ RESISTENCIA HD
+http://c1.3espp.top:80/96448/45841/177
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ LA RESISTENCIA FHD" tvg-logo="https://teatroarlequingranvia.com/wp-content/uploads/2020/02/LogoResistencia400-1.png" group-title="CINE Y SERIES",M+ LA RESISTENCIA FHD
+http://c1.3espp.top:80/96448/45841/178
+#EXTINF:-1 tvg-id="TRECE" tvg-name="M+ TRECE SD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png" group-title="CINE Y SERIES",M+ TRECE SD
+http://c1.3espp.top:80/96448/45841/179
+#EXTINF:-1 tvg-id="TRECE" tvg-name="M+ TRECE HD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png" group-title="CINE Y SERIES",M+ TRECE HD
+http://c1.3espp.top:80/96448/45841/180
+#EXTINF:-1 tvg-id="Somos" tvg-name="M+CLASICOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tve_canal_clasico.png" group-title="CINE Y SERIES",M+CLASICOS HD
+http://c1.3espp.top:80/96448/45841/181
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="SOMOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="CINE Y SERIES",SOMOS SD
+http://c1.3espp.top:80/96448/45841/279
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="SOMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="CINE Y SERIES",SOMOS HD
+http://c1.3espp.top:80/96448/45841/280
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="CINE Y SERIES",SOMOS FHD
+http://c1.3espp.top:80/96448/45841/281
+#EXTINF:-1 tvg-id="" tvg-name="M+ DREAMWORKS SD" tvg-logo="" group-title="INFANTIL",M+ DREAMWORKS SD
+http://c1.3espp.top:80/96448/45841/336
+#EXTINF:-1 tvg-id="" tvg-name="M+ DREAMWORKS HD" tvg-logo="" group-title="INFANTIL",M+ DREAMWORKS HD
+http://c1.3espp.top:80/96448/45841/337
+#EXTINF:-1 tvg-id="" tvg-name="M+ DREAMWORKS FHD" tvg-logo="" group-title="INFANTIL",M+ DREAMWORKS FHD
+http://c1.3espp.top:80/96448/45841/338
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA SD" tvg-logo="" group-title="INFANTIL",CANAL PANDA SD
+http://c1.3espp.top:80/96448/45841/339
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA HD" tvg-logo="" group-title="INFANTIL",CANAL PANDA HD
+http://c1.3espp.top:80/96448/45841/340
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA FHD" tvg-logo="" group-title="INFANTIL",CANAL PANDA FHD
+http://c1.3espp.top:80/96448/45841/341
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR SD
+http://c1.3espp.top:80/96448/45841/342
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR HD
+http://c1.3espp.top:80/96448/45841/343
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR FHD
+http://c1.3espp.top:80/96448/45841/344
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL SD
+http://c1.3espp.top:80/96448/45841/345
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL HD
+http://c1.3espp.top:80/96448/45841/346
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://c1.3espp.top:80/96448/45841/347
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="" group-title="INFANTIL",NICKELODEON SD
+http://c1.3espp.top:80/96448/45841/348
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="INFANTIL",NICKELODEON HD
+http://c1.3espp.top:80/96448/45841/349
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="" group-title="INFANTIL",NICKELODEON FHD
+http://c1.3espp.top:80/96448/45841/350
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="" group-title="INFANTIL",NICK JR SD
+http://c1.3espp.top:80/96448/45841/351
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="INFANTIL",NICK JR HD
+http://c1.3espp.top:80/96448/45841/352
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD" tvg-logo="" group-title="INFANTIL",NICK JR FHD
+http://c1.3espp.top:80/96448/45841/353
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TV SD" tvg-logo="" group-title="INFANTIL",CLAN TV SD
+http://c1.3espp.top:80/96448/45841/354
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TV HD" tvg-logo="" group-title="INFANTIL",CLAN TV HD
+http://c1.3espp.top:80/96448/45841/355
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TV FHD" tvg-logo="" group-title="INFANTIL",CLAN TV FHD
+http://c1.3espp.top:80/96448/45841/356
+#EXTINF:-1 tvg-id="" tvg-name="BOING SD" tvg-logo="" group-title="INFANTIL",BOING SD
+http://c1.3espp.top:80/96448/45841/357
+#EXTINF:-1 tvg-id="" tvg-name="BOING HD" tvg-logo="" group-title="INFANTIL",BOING HD
+http://c1.3espp.top:80/96448/45841/358
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="" group-title="INFANTIL",BABY TV SD
+http://c1.3espp.top:80/96448/45841/359
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="INFANTIL",BABY TV HD
+http://c1.3espp.top:80/96448/45841/360
+#EXTINF:-1 tvg-id="" tvg-name="Pequeradio" tvg-logo="" group-title="INFANTIL",Pequeradio
+http://c1.3espp.top:80/96448/45841/65
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN F1 SD
+http://c1.3espp.top:80/96448/45841/226
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN F1 HD
+http://c1.3espp.top:80/96448/45841/227
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN F1 FHD
+http://c1.3espp.top:80/96448/45841/228
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 1 SD
+http://c1.3espp.top:80/96448/45841/214
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 1 HD
+http://c1.3espp.top:80/96448/45841/215
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 1 FHD
+http://c1.3espp.top:80/96448/45841/216
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 2 SD
+http://c1.3espp.top:80/96448/45841/217
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 2 HD
+http://c1.3espp.top:80/96448/45841/218
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 2 FHD
+http://c1.3espp.top:80/96448/45841/219
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 3 SD
+http://c1.3espp.top:80/96448/45841/220
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 3 HD
+http://c1.3espp.top:80/96448/45841/221
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 3 FHD
+http://c1.3espp.top:80/96448/45841/222
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 4 SD
+http://c1.3espp.top:80/96448/45841/223
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 4 HD
+http://c1.3espp.top:80/96448/45841/224
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN 4 FHD
+http://c1.3espp.top:80/96448/45841/225
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LaLiga SD
+http://c1.3espp.top:80/96448/45841/1774
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LaLiga HD
+http://c1.3espp.top:80/96448/45841/1775
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LA LIGA FHD
+http://c1.3espp.top:80/96448/45841/1888
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LA LIGA 2 SD
+http://c1.3espp.top:80/96448/45841/1781
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LA LIGA 2 HD
+http://c1.3espp.top:80/96448/45841/1780
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="DAZN LaLiga2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",DAZN LaLiga2 FHD
+http://c1.3espp.top:80/96448/45841/1769
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank FHD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank FHD
+http://c1.3espp.top:80/96448/45841/1772
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank1 FHD
+http://c1.3espp.top:80/96448/45841/1773
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank1 HD
+http://c1.3espp.top:80/96448/45841/1776
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank1 SD
+http://c1.3espp.top:80/96448/45841/1777
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank HD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank HD
+http://c1.3espp.top:80/96448/45841/1778
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank SD" tvg-logo="" group-title="EVENTOS DEPORTES",LigaSmartBank SD
+http://c1.3espp.top:80/96448/45841/1779
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA SD
+http://c1.3espp.top:80/96448/45841/182
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA HD
+http://c1.3espp.top:80/96448/45841/183
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA FHD
+http://c1.3espp.top:80/96448/45841/184
+#EXTINF:-1 tvg-id="" tvg-name="M+LA LIGA 1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+LA LIGA 1 SD
+http://c1.3espp.top:80/96448/45841/185
+#EXTINF:-1 tvg-id="" tvg-name="M+LA LIGA 1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+LA LIGA 1 HD
+http://c1.3espp.top:80/96448/45841/186
+#EXTINF:-1 tvg-id="" tvg-name="M+LA LIGA 1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+LA LIGA 1 FHD
+http://c1.3espp.top:80/96448/45841/187
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD 2" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA SD 2
+http://c1.3espp.top:80/96448/45841/188
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 2" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA HD 2
+http://c1.3espp.top:80/96448/45841/189
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD 2" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA FHD 2
+http://c1.3espp.top:80/96448/45841/190
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD 3" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA SD 3
+http://c1.3espp.top:80/96448/45841/191
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 3" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA HD 3
+http://c1.3espp.top:80/96448/45841/192
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD 3" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA FHD 3
+http://c1.3espp.top:80/96448/45841/193
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD 4" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA SD 4
+http://c1.3espp.top:80/96448/45841/194
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 4" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA HD 4
+http://c1.3espp.top:80/96448/45841/195
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD 4" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA FHD 4
+http://c1.3espp.top:80/96448/45841/196
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD 5" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA SD 5
+http://c1.3espp.top:80/96448/45841/197
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 5" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LA LIGA HD 5
+http://c1.3espp.top:80/96448/45841/198
+#EXTINF:-1 tvg-id="" tvg-name="M+LA LIGA 4k" tvg-logo="" group-title="EVENTOS DEPORTES",M+LA LIGA 4k
+http://c1.3espp.top:80/96448/45841/1782
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ VAMOS SD
+http://c1.3espp.top:80/96448/45841/229
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ VAMOS HD
+http://c1.3espp.top:80/96448/45841/230
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ VAMOS FHD
+http://c1.3espp.top:80/96448/45841/231
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV FHD" tvg-logo="" group-title="EVENTOS DEPORTES",BARCA TV FHD
+http://c1.3espp.top:80/96448/45841/232
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV HD" tvg-logo="" group-title="EVENTOS DEPORTES",Real Madrid TV HD
+http://c1.3espp.top:80/96448/45841/233
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 1 SD
+http://c1.3espp.top:80/96448/45841/234
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 1 HD
+http://c1.3espp.top:80/96448/45841/235
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 1 FHD
+http://c1.3espp.top:80/96448/45841/236
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 2 SD
+http://c1.3espp.top:80/96448/45841/237
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 2 HD
+http://c1.3espp.top:80/96448/45841/238
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",EUROSPORT 2 FHD
+http://c1.3espp.top:80/96448/45841/239
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES SD
+http://c1.3espp.top:80/96448/45841/240
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES HD
+http://c1.3espp.top:80/96448/45841/241
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES FHD
+http://c1.3espp.top:80/96448/45841/242
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 1 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 1 SD
+http://c1.3espp.top:80/96448/45841/243
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 1 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 1 HD
+http://c1.3espp.top:80/96448/45841/244
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 1 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 1 FHD
+http://c1.3espp.top:80/96448/45841/245
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 2 SD
+http://c1.3espp.top:80/96448/45841/246
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 2 HD
+http://c1.3espp.top:80/96448/45841/247
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 2 FHD
+http://c1.3espp.top:80/96448/45841/248
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 3 SD
+http://c1.3espp.top:80/96448/45841/249
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 3 HD
+http://c1.3espp.top:80/96448/45841/250
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 3 FHD
+http://c1.3espp.top:80/96448/45841/251
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 4 SD
+http://c1.3espp.top:80/96448/45841/252
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 4 HD
+http://c1.3espp.top:80/96448/45841/253
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 5 SD
+http://c1.3espp.top:80/96448/45841/255
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 5 HD
+http://c1.3espp.top:80/96448/45841/256
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 6 SD
+http://c1.3espp.top:80/96448/45841/258
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 6 HD
+http://c1.3espp.top:80/96448/45841/259
+#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES7" tvg-logo="" group-title="EVENTOS DEPORTES",M+DEPORTES7
+http://c1.3espp.top:80/96448/45841/371
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 7 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 7 HD
+http://c1.3espp.top:80/96448/45841/372
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 7 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ DEPORTES 7 FHD
+http://c1.3espp.top:80/96448/45841/373
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="EVENTOS DEPORTES",LA LIGA TV BAR HD
+http://c1.3espp.top:80/96448/45841/266
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR FHD" tvg-logo="" group-title="EVENTOS DEPORTES",LA LIGA TV BAR FHD
+http://c1.3espp.top:80/96448/45841/199
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE SD" tvg-logo="" group-title="EVENTOS DEPORTES",TELEDEPORTE SD
+http://c1.3espp.top:80/96448/45841/263
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD" tvg-logo="" group-title="EVENTOS DEPORTES",TELEDEPORTE HD
+http://c1.3espp.top:80/96448/45841/264
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE FHD" tvg-logo="" group-title="EVENTOS DEPORTES",TELEDEPORTE FHD
+http://c1.3espp.top:80/96448/45841/265
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES SD
+http://c1.3espp.top:80/96448/45841/200
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD Option1" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES HD Option1
+http://c1.3espp.top:80/96448/45841/201
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES FHD
+http://c1.3espp.top:80/96448/45841/202
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 2 SD
+http://c1.3espp.top:80/96448/45841/206
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 2 HD
+http://c1.3espp.top:80/96448/45841/207
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 2 FHD
+http://c1.3espp.top:80/96448/45841/208
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 3 SD
+http://c1.3espp.top:80/96448/45841/209
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 3 HD
+http://c1.3espp.top:80/96448/45841/210
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 3 FHD
+http://c1.3espp.top:80/96448/45841/211
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 4 SD
+http://c1.3espp.top:80/96448/45841/212
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 4 HD
+http://c1.3espp.top:80/96448/45841/213
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 6 HD
+http://c1.3espp.top:80/96448/45841/1503
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ LIGA DE CAMPEONES 5 HD
+http://c1.3espp.top:80/96448/45841/1502
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF SD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ GOLF SD
+http://c1.3espp.top:80/96448/45841/260
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF HD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ GOLF HD
+http://c1.3espp.top:80/96448/45841/261
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD" tvg-logo="" group-title="EVENTOS DEPORTES",M+ GOLF FHD
+http://c1.3espp.top:80/96448/45841/262
+#EXTINF:-1 tvg-id="" tvg-name="GOL SD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL SD
+http://c1.3espp.top:80/96448/45841/267
+#EXTINF:-1 tvg-id="" tvg-name="GOL HD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL HD
+http://c1.3espp.top:80/96448/45841/268
+#EXTINF:-1 tvg-id="" tvg-name="GOL FHD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL FHD
+http://c1.3espp.top:80/96448/45841/269
+#EXTINF:-1 tvg-id="" tvg-name="TOROS SD" tvg-logo="" group-title="EVENTOS DEPORTES",TOROS SD
+http://c1.3espp.top:80/96448/45841/282
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="EVENTOS DEPORTES",TOROS HD
+http://c1.3espp.top:80/96448/45841/283
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FHD" tvg-logo="" group-title="EVENTOS DEPORTES",TOROS FHD
+http://c1.3espp.top:80/96448/45841/284
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO SD" tvg-logo="" group-title="EVENTOS DEPORTES",EL TORO SD
+http://c1.3espp.top:80/96448/45841/288
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO HD" tvg-logo="" group-title="EVENTOS DEPORTES",EL TORO HD
+http://c1.3espp.top:80/96448/45841/289
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO FHD" tvg-logo="" group-title="EVENTOS DEPORTES",EL TORO FHD
+http://c1.3espp.top:80/96448/45841/290
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS" tvg-logo="" group-title="EVENTOS DEPORTES",M+ ELLAS
+http://c1.3espp.top:80/96448/45841/1500
+#EXTINF:-1 tvg-id="" tvg-name="Wyrmwood: Apocalypse" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5FejR8s7E1BYkWRFZ9sPTNHKkxT.jpg" group-title="",Wyrmwood: Apocalypse
+http://c1.3espp.top:80/movie/96448/45841/1971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vuelta al insti" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg" group-title="",Vuelta al insti
+http://c1.3espp.top:80/movie/96448/45841/1970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a golpes" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3cccEF9QZgV9bLWyupJO41HSrOV.jpg" group-title="",Venganza a golpes
+http://c1.3espp.top:80/movie/96448/45841/1969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar seguro" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qsVvFYZ0HqZsXinbPd2f4lo2bPC.jpg" group-title="",Un lugar seguro
+http://c1.3espp.top:80/movie/96448/45841/1968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un d&iacute;a para morir" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="",Un d&iacute;a para morir
+http://c1.3espp.top:80/movie/96448/45841/1967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg" group-title="",Uncharted
+http://c1.3espp.top:80/movie/96448/45841/1965.avi
+#EXTINF:-1 tvg-id="" tvg-name="Una cita con el pasado" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg" group-title="",Una cita con el pasado
+http://c1.3espp.top:80/movie/96448/45841/1964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tratamiento real" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mYAv0YUoXJzLxIdEirOken8Quwf.jpg" group-title="",Tratamiento real
+http://c1.3espp.top:80/movie/96448/45841/1963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The King's Man: La primera misi&oacute;n" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/a2DKZj4mmxaJF43T6R1adUMbHzu.jpg" group-title="",The King's Man: La primera misi&oacute;n
+http://c1.3espp.top:80/movie/96448/45841/1962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Batman" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg" group-title="",The Batman
+http://c1.3espp.top:80/movie/96448/45841/1961.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tal para cual" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jRQI0hJc6pDykHQ9CNASDDhIClZ.jpg" group-title="",Tal para cual
+http://c1.3espp.top:80/movie/96448/45841/1960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tacticas en el amor" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/9mXoEX9RNsRD1bG8nmJSfhwaM3O.jpg" group-title="",Tacticas en el amor
+http://c1.3espp.top:80/movie/96448/45841/1959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="",Sonic 2
+http://c1.3espp.top:80/movie/96448/45841/1958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 La pelicula (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Sonic 2 La pelicula (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://c1.3espp.top:80/movie/96448/45841/1957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerella Cenicienta En Zapatillas" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jJ07f8DTdeWnCKCwDzB4htLXKBN.jpg" group-title="",Sneakerella Cenicienta En Zapatillas
+http://c1.3espp.top:80/movie/96448/45841/1956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (Sans repit)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Sin respiro (Sans repit)
+http://c1.3espp.top:80/movie/96448/45841/1955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Pudor" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/nfIAG7QiC0Gp2Q9bGC9cO2uC7dQ.jpg" group-title="",Sin Pudor
+http://c1.3espp.top:80/movie/96448/45841/1954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharkwater" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/z8c3MgIEfhbFZNgG2eMgICSVeDC.jpg" group-title="",Sharkwater
+http://c1.3espp.top:80/movie/96448/45841/1953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sex Appeal" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg" group-title="",Sex Appeal
+http://c1.3espp.top:80/movie/96448/45841/1952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg" group-title="",Scream
+http://c1.3espp.top:80/movie/96448/45841/1951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="",Red
+http://c1.3espp.top:80/movie/96448/45841/1950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quiero que vuelvas (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.ART]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Quiero que vuelvas (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.ART]
+http://c1.3espp.top:80/movie/96448/45841/1949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que tengas un buen viaje" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wk2bKNbpvUL2odjirzBYmT1fKDq.jpg" group-title="",Que tengas un buen viaje
+http://c1.3espp.top:80/movie/96448/45841/1948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OVNI (UFO)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title="",OVNI (UFO)
+http://c1.3espp.top:80/movie/96448/45841/1947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Muerte en el Nilo (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]
+http://c1.3espp.top:80/movie/96448/45841/1946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="",Morbius
+http://c1.3espp.top:80/movie/96448/45841/1945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonshot" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="",Moonshot
+http://c1.3espp.top:80/movie/96448/45841/1944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="",Moonfall
+http://c1.3espp.top:80/movie/96448/45841/1943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metal Lords" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/r97txZRmBb75SGsIAWqmplWJnO3.jpg" group-title="",Metal Lords
+http://c1.3espp.top:80/movie/96448/45841/1942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las ninas de cristal (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.CLUB]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Las ninas de cristal (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.CLUB]
+http://c1.3espp.top:80/movie/96448/45841/1941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La octava clausula" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5CbVMeLvaGn87gx05waiIJ0JySr.jpg" group-title="",La octava clausula
+http://c1.3espp.top:80/movie/96448/45841/1940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg" group-title="",La matanza de Texas
+http://c1.3espp.top:80/movie/96448/45841/1939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del rey" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zwRf07ECh7nV7xlahKzN5wFYhGx.jpg" group-title="",La hija del rey
+http://c1.3espp.top:80/movie/96448/45841/1938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La fierecilla indomable" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vX9yRKwZA2YmkCg4MeUmPCUlFs1.jpg" group-title="",La fierecilla indomable
+http://c1.3espp.top:80/movie/96448/45841/1937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",La ciudad perdida (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://c1.3espp.top:80/movie/96448/45841/1936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa belleville (Master)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",La casa belleville (Master)
+http://c1.3espp.top:80/movie/96448/45841/1935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La burbuja (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",La burbuja (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]
+http://c1.3espp.top:80/movie/96448/45841/1934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kimi" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="",Kimi
+http://c1.3espp.top:80/movie/96448/45841/1933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugar En Casa" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xdPdVJGIQjuVhK7SeK5fpjuc1bu.jpg" group-title="",Jugar En Casa
+http://c1.3espp.top:80/movie/96448/45841/1932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ugIdyvtAzHWOguD91UjHKoAvfum.jpg" group-title="",Jackass Forever
+http://c1.3espp.top:80/movie/96448/45841/1931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Jackass Forever (2022)
+http://c1.3espp.top:80/movie/96448/45841/1930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass 4.5" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bl686OSeMQOvs90IQAgt8QipCsB.jpg" group-title="",Jackass 4.5
+http://c1.3espp.top:80/movie/96448/45841/1929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatibles 2" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face" group-title="",Incompatibles 2
+http://c1.3espp.top:80/movie/96448/45841/1928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Love America" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fk1bNip5m4hkFniiReuz1odSba.jpg" group-title="",I Love America
+http://c1.3espp.top:80/movie/96448/45841/1927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age Las aventuras de Buck" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="",Ice Age Las aventuras de Buck
+http://c1.3espp.top:80/movie/96448/45841/1926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How I Fell in Love with a Gangster" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mOPXksoNwfmiqJCgmik6w0xnVQS.jpg" group-title="",How I Fell in Love with a Gangster
+http://c1.3espp.top:80/movie/96448/45841/1925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heatwave (Ola de Calor)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Heatwave (Ola de Calor)
+http://c1.3espp.top:80/movie/96448/45841/1924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Granizo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="",Granizo
+http://c1.3espp.top:80/movie/96448/45841/1923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gold" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg" group-title="",Gold
+http://c1.3espp.top:80/movie/96448/45841/1922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell SAC_2045 Guerra sostenible" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/g0ZaqgvHecMPfACSerA0nekArV9.jpg" group-title="",Ghost in the Shell SAC_2045 Guerra sostenible
+http://c1.3espp.top:80/movie/96448/45841/1921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frutos del viento (Windfall)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Frutos del viento (Windfall)
+http://c1.3espp.top:80/movie/96448/45841/1920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fresh" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zCx7R6sWaAH0fijU54KfWse5JdX.jpg" group-title="",Fresh
+http://c1.3espp.top:80/movie/96448/45841/1919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fin de semana en Croacia" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg" group-title="",Fin de semana en Croacia
+http://c1.3espp.top:80/movie/96448/45841/1918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la Toscana" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg" group-title="",En la Toscana
+http://c1.3espp.top:80/movie/96448/45841/1917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la tormenta" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qRSzVQCmOXCkPKLkqy9fquREPhp.jpg" group-title="",En la tormenta
+http://c1.3espp.top:80/movie/96448/45841/1916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emergency" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/b1OVtVtcC7KQlsueXCwBSRaAR1o.jpg" group-title="",Emergency
+http://c1.3espp.top:80/movie/96448/45841/1915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El triangulo del diablo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/nzrBT5JrxA2bgljMxtlFdfu24fc.jpg" group-title="",El triangulo del diablo
+http://c1.3espp.top:80/movie/96448/45841/1914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El sueNo de Nate" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/55gkFbie2Nbudo21rDpi6zG0XvC.jpg" group-title="",El sueNo de Nate
+http://c1.3espp.top:80/movie/96448/45841/1913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de Ruby" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/tPlJEodEn0SSV4avo8KSawtlTlN.jpg" group-title="",El rescate de Ruby
+http://c1.3espp.top:80/movie/96448/45841/1912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso a casa de Madea" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vzX5GNRTXsAltdU1tfASmZbzYmv.jpg" group-title="",El regreso a casa de Madea
+http://c1.3espp.top:80/movie/96448/45841/1911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto Adam" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="",El proyecto Adam
+http://c1.3espp.top:80/movie/96448/45841/1910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El privilegio" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/kJ3XqwHB2ahznoOUkUxlqKZylem.jpg" group-title="",El privilegio
+http://c1.3espp.top:80/movie/96448/45841/1909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elige o muere" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg" group-title="",Elige o muere
+http://c1.3espp.top:80/movie/96448/45841/1908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hilo imperceptible " tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qQwEDjypPHSVGvseGkkbedOraEI.jpg" group-title="",El hilo imperceptible 
+http://c1.3espp.top:80/movie/96448/45841/1907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cielo esta en cualquier lugar" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg" group-title="",El cielo esta en cualquier lugar
+http://c1.3espp.top:80/movie/96448/45841/1906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg" group-title="",El asedio de Silverton
+http://c1.3espp.top:80/movie/96448/45841/1905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Aparcacoches" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg" group-title="",El Aparcacoches
+http://c1.3espp.top:80/movie/96448/45841/1904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce en casa" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title="",Doce en casa
+http://c1.3espp.top:80/movie/96448/45841/1903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despierta tigre" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mEukzqPoCpbrXLGslT8qdTuyRKZ.jpg" group-title="",Despierta tigre
+http://c1.3espp.top:80/movie/96448/45841/1902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desperate Riders" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" group-title="",Desperate Riders
+http://c1.3espp.top:80/movie/96448/45841/1901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dejate Llevar (Along For The Ride)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Dejate Llevar (Along For The Ride)
+http://c1.3espp.top:80/movie/96448/45841/1900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="",Crush
+http://c1.3espp.top:80/movie/96448/45841/1899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corre y dispara" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4qlq5gPzWDZRfXJC9qgv9SfTThr.jpg" group-title="",Corre y dispara
+http://c1.3espp.top:80/movie/96448/45841/1898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiracion en Hollywood" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" group-title="",Conspiracion en Hollywood
+http://c1.3espp.top:80/movie/96448/45841/1897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Chop" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8Tsj6hxMcTBKoAxMRG7QGeJAzjm.jpg" group-title="",Chip y Chop
+http://c1.3espp.top:80/movie/96448/45841/1896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casate conmigo (Marry Me) (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Casate conmigo (Marry Me) (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://c1.3espp.top:80/movie/96448/45841/1895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cangrejo negro (Black Crab)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",Cangrejo negro (Black Crab)
+http://c1.3espp.top:80/movie/96448/45841/1894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camera Cafe, la pelicula" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wlHZV96gSY5UOmqPDlsFZ4ABWHy.jpg" group-title="",Camera Cafe, la pelicula
+http://c1.3espp.top:80/movie/96448/45841/1893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animales fantasticos los secretos de Dumbledore" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg" group-title="",Animales fantasticos los secretos de Dumbledore
+http://c1.3espp.top:80/movie/96448/45841/1892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A mi altura 2 (Tall Girl 2)" tvg-logo="templates/style2/images/ico/nologo.png" group-title="",A mi altura 2 (Tall Girl 2)
+http://c1.3espp.top:80/movie/96448/45841/1891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente 355" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg" group-title="",Agente 355
+http://c1.3espp.top:80/movie/96448/45841/1890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 dias Aquel dia" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg" group-title="",365 dias Aquel dia
+http://c1.3espp.top:80/movie/96448/45841/1889.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" My Pervy Family" tvg-logo="" group-title="CINE +18", My Pervy Family
+http://c1.3espp.top:80/96448/45841/2074
+#EXTINF:-1 tvg-id="" tvg-name=" HUSTLER HD" tvg-logo="" group-title="CINE +18", HUSTLER HD
+http://c1.3espp.top:80/96448/45841/2073
+#EXTINF:-1 tvg-id="" tvg-name=" Hot FHD" tvg-logo="" group-title="CINE +18", Hot FHD
+http://c1.3espp.top:80/96448/45841/2072
+#EXTINF:-1 tvg-id="" tvg-name=" French Lover Europe" tvg-logo="" group-title="CINE +18", French Lover Europe
+http://c1.3espp.top:80/96448/45841/2070
+#EXTINF:-1 tvg-id="" tvg-name=" FAKE AGENT" tvg-logo="" group-title="CINE +18", FAKE AGENT
+http://c1.3espp.top:80/96448/45841/2068
+#EXTINF:-1 tvg-id="" tvg-name=" BLUE HUSTLER" tvg-logo="" group-title="CINE +18", BLUE HUSTLER
+http://c1.3espp.top:80/96448/45841/2066
+#EXTINF:-1 tvg-id="" tvg-name=" Blacked" tvg-logo="" group-title="CINE +18", Blacked
+http://c1.3espp.top:80/96448/45841/2065
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX HD2" tvg-logo="" group-title="CINE +18", Alba XXX HD2
+http://c1.3espp.top:80/96448/45841/2063
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX HD1" tvg-logo="" group-title="CINE +18", Alba XXX HD1
+http://c1.3espp.top:80/96448/45841/2062
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 5" tvg-logo="" group-title="CINE +18", Alba XXX 5
+http://c1.3espp.top:80/96448/45841/2060
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 4" tvg-logo="" group-title="CINE +18", Alba XXX 4
+http://c1.3espp.top:80/96448/45841/2059
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 3" tvg-logo="" group-title="CINE +18", Alba XXX 3
+http://c1.3espp.top:80/96448/45841/2058
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 2" tvg-logo="" group-title="CINE +18", Alba XXX 2
+http://c1.3espp.top:80/96448/45841/2057
+#EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 1" tvg-logo="" group-title="CINE +18", Alba XXX 1
+http://c1.3espp.top:80/96448/45841/2056
+#EXTINF:-1 tvg-id="" tvg-name="  Beate Uhse.TV" tvg-logo="" group-title="CINE +18",  Beate Uhse.TV
+http://c1.3espp.top:80/96448/45841/2055
+#EXTINF:-1 tvg-id="" tvg-name=" Mia Khalifa" tvg-logo="" group-title="CINE +18", Mia Khalifa
+http://c1.3espp.top:80/96448/45841/2054
+#EXTINF:-1 tvg-id="" tvg-name=" Little Caprice" tvg-logo="" group-title="CINE +18", Little Caprice
+http://c1.3espp.top:80/96448/45841/2053
+#EXTINF:-1 tvg-id="" tvg-name=" Fake Taxi" tvg-logo="" group-title="CINE +18", Fake Taxi
+http://c1.3espp.top:80/96448/45841/2052
+#EXTINF:-1 tvg-id="" tvg-name=" Family Strokes" tvg-logo="" group-title="CINE +18", Family Strokes
+http://c1.3espp.top:80/96448/45841/2051
+#EXTINF:-1 tvg-id="" tvg-name=" Family Hookups" tvg-logo="" group-title="CINE +18", Family Hookups
+http://c1.3espp.top:80/96448/45841/2050
+#EXTINF:-1 tvg-id="" tvg-name=" Public Agent" tvg-logo="" group-title="CINE +18", Public Agent
+http://c1.3espp.top:80/96448/45841/2049
+#EXTINF:-1 tvg-id="" tvg-name=" True Amateurs" tvg-logo="" group-title="CINE +18", True Amateurs
+http://c1.3espp.top:80/96448/45841/2048
+#EXTINF:-1 tvg-id="" tvg-name=" Cum 4k UHD" tvg-logo="" group-title="CINE +18", Cum 4k UHD
+http://c1.3espp.top:80/96448/45841/2047
+#EXTINF:-1 tvg-id="" tvg-name=" Daughter Swap" tvg-logo="" group-title="CINE +18", Daughter Swap
+http://c1.3espp.top:80/96448/45841/2046
+#EXTINF:-1 tvg-id="" tvg-name=" DDF Network" tvg-logo="" group-title="CINE +18", DDF Network
+http://c1.3espp.top:80/96448/45841/2045
+#EXTINF:-1 tvg-id="" tvg-name=" Day with a Pornstar" tvg-logo="" group-title="CINE +18", Day with a Pornstar
+http://c1.3espp.top:80/96448/45841/2044
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 40" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2040_basic-file.png" group-title="CINE +18", REDBOX ADULTS 40
+http://c1.3espp.top:80/96448/45841/2042
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 39" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2039_basic-file.png" group-title="CINE +18", REDBOX ADULTS 39
+http://c1.3espp.top:80/96448/45841/2041
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 38" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2038_basic-file.png" group-title="CINE +18", REDBOX ADULTS 38
+http://c1.3espp.top:80/96448/45841/2040
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 37" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2037_basic-file.png" group-title="CINE +18", REDBOX ADULTS 37
+http://c1.3espp.top:80/96448/45841/2039
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 36" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2036_basic-file.png" group-title="CINE +18", REDBOX ADULTS 36
+http://c1.3espp.top:80/96448/45841/2038
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 35" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2035_basic-file.png" group-title="CINE +18", REDBOX ADULTS 35
+http://c1.3espp.top:80/96448/45841/2037
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 34" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2034_basic-file.png" group-title="CINE +18", REDBOX ADULTS 34
+http://c1.3espp.top:80/96448/45841/2036
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 33" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2033_basic-file.png" group-title="CINE +18", REDBOX ADULTS 33
+http://c1.3espp.top:80/96448/45841/2035
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 32" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2032_basic-file.png" group-title="CINE +18", REDBOX ADULTS 32
+http://c1.3espp.top:80/96448/45841/2034
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 31" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2031_basic-file.png" group-title="CINE +18", REDBOX ADULTS 31
+http://c1.3espp.top:80/96448/45841/2033
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 30" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2030_basic-file.png" group-title="CINE +18", REDBOX ADULTS 30
+http://c1.3espp.top:80/96448/45841/2032
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 29" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2029_basic-file.png" group-title="CINE +18", REDBOX ADULTS 29
+http://c1.3espp.top:80/96448/45841/2031
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 28" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2028_basic-file.png" group-title="CINE +18", REDBOX ADULTS 28
+http://c1.3espp.top:80/96448/45841/2030
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 27" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2027_basic-file.png" group-title="CINE +18", REDBOX ADULTS 27
+http://c1.3espp.top:80/96448/45841/2029
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 26" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2026_basic-file.png" group-title="CINE +18", REDBOX ADULTS 26
+http://c1.3espp.top:80/96448/45841/2028
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 25" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2025_basic-file.png" group-title="CINE +18", REDBOX ADULTS 25
+http://c1.3espp.top:80/96448/45841/2027
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 24" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2024_free-file.png" group-title="CINE +18", REDBOX ADULTS 24
+http://c1.3espp.top:80/96448/45841/2026
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 23" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2023_free-file.png" group-title="CINE +18", REDBOX ADULTS 23
+http://c1.3espp.top:80/96448/45841/2025
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 22" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2022.png" group-title="CINE +18", REDBOX ADULTS 22
+http://c1.3espp.top:80/96448/45841/2024
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 21" tvg-logo="" group-title="CINE +18", REDBOX ADULTS 21
+http://c1.3espp.top:80/96448/45841/2023
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 20" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2020_free-file.png" group-title="CINE +18", REDBOX ADULTS 20
+http://c1.3espp.top:80/96448/45841/2022
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 18" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2018_free-file.png" group-title="CINE +18", REDBOX ADULTS 18
+http://c1.3espp.top:80/96448/45841/2020
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 17" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2017_free-file.png" group-title="CINE +18", REDBOX ADULTS 17
+http://c1.3espp.top:80/96448/45841/2019
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 15" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2015_free-file.png" group-title="CINE +18", REDBOX ADULTS 15
+http://c1.3espp.top:80/96448/45841/2017
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 14" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2014_free-file.png" group-title="CINE +18", REDBOX ADULTS 14
+http://c1.3espp.top:80/96448/45841/2016
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 13" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2013_free-file.png" group-title="CINE +18", REDBOX ADULTS 13
+http://c1.3espp.top:80/96448/45841/2015
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 12" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%2012_free-file.png" group-title="CINE +18", REDBOX ADULTS 12
+http://c1.3espp.top:80/96448/45841/2014
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 9" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%209_basic-file.png" group-title="CINE +18", REDBOX ADULTS 9
+http://c1.3espp.top:80/96448/45841/2011
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 8" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%208_basic-file.png" group-title="CINE +18", REDBOX ADULTS 8
+http://c1.3espp.top:80/96448/45841/2010
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 7" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%207_basic-file.png" group-title="CINE +18", REDBOX ADULTS 7
+http://c1.3espp.top:80/96448/45841/2009
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 6" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%206_basic-file.png" group-title="CINE +18", REDBOX ADULTS 6
+http://c1.3espp.top:80/96448/45841/2008
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 5" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%205_basic-file.png" group-title="CINE +18", REDBOX ADULTS 5
+http://c1.3espp.top:80/96448/45841/2007
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 4" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%204_basic-file.png" group-title="CINE +18", REDBOX ADULTS 4
+http://c1.3espp.top:80/96448/45841/2006
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 3" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%203_basic-file.png" group-title="CINE +18", REDBOX ADULTS 3
+http://c1.3espp.top:80/96448/45841/2005
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 2" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%202_basic-file%20(1).png" group-title="CINE +18", REDBOX ADULTS 2
+http://c1.3espp.top:80/96448/45841/2004
+#EXTINF:-1 tvg-id="" tvg-name=" REDBOX ADULTS 1" tvg-logo="http://163.172.33.106/ambiti/tvkarambita/Redbox/REDBOX%20ADULT%20LOGOS/REDBOX%20ADULTS%201_basic-file.png" group-title="CINE +18", REDBOX ADULTS 1
+http://c1.3espp.top:80/96448/45841/2003
+#EXTINF:-1 tvg-id="" tvg-name=" Pure Babes HD" tvg-logo="" group-title="CINE +18", Pure Babes HD
+http://c1.3espp.top:80/96448/45841/2002
+#EXTINF:-1 tvg-id="" tvg-name=" XY Plus HD" tvg-logo="" group-title="CINE +18", XY Plus HD
+http://c1.3espp.top:80/96448/45841/1998
+#EXTINF:-1 tvg-id="" tvg-name=" XY Plus+1 HD" tvg-logo="" group-title="CINE +18", XY Plus+1 HD
+http://c1.3espp.top:80/96448/45841/1997
+#EXTINF:-1 tvg-id="" tvg-name=" XY Plus+2 HD" tvg-logo="" group-title="CINE +18", XY Plus+2 HD
+http://c1.3espp.top:80/96448/45841/1995
+#EXTINF:-1 tvg-id="" tvg-name=" XY Plus+6 HD" tvg-logo="" group-title="CINE +18", XY Plus+6 HD
+http://c1.3espp.top:80/96448/45841/1993
+#EXTINF:-1 tvg-id="" tvg-name=" Passion HD" tvg-logo="" group-title="CINE +18", Passion HD
+http://c1.3espp.top:80/96448/45841/1992
+#EXTINF:-1 tvg-id="" tvg-name=" HOT HD" tvg-logo="" group-title="CINE +18", HOT HD
+http://c1.3espp.top:80/96448/45841/1990
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 10 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 10 HD
+http://c1.3espp.top:80/96448/45841/1989
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 9 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 9 HD
+http://c1.3espp.top:80/96448/45841/1988
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 7 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 7 HD
+http://c1.3espp.top:80/96448/45841/1986
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 6 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 6 HD
+http://c1.3espp.top:80/96448/45841/1985
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 5 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 5 HD
+http://c1.3espp.top:80/96448/45841/1984
+#EXTINF:-1 tvg-id="" tvg-name=" FILMAX Adult 4 HD" tvg-logo="" group-title="CINE +18", FILMAX Adult 4 HD
+http://c1.3espp.top:80/96448/45841/1983
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 8 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 8 HD
+http://c1.3espp.top:80/96448/45841/1979
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 6 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 6 HD
+http://c1.3espp.top:80/96448/45841/1977
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 5 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 5 HD
+http://c1.3espp.top:80/96448/45841/1976
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 4 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 4 HD
+http://c1.3espp.top:80/96448/45841/1975
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 3 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 3 HD
+http://c1.3espp.top:80/96448/45841/1974
+#EXTINF:-1 tvg-id="" tvg-name=" CiNE PORN 2 HD" tvg-logo="https://i.ibb.co/vdbrTBH/filerars-18-svg-wikimedia-commons-18-png-500-500.png" group-title="CINE +18", CiNE PORN 2 HD
+http://c1.3espp.top:80/96448/45841/1973
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qp7nzPO9mZmHLqowmF2DLhwqy1.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E01
+http://c1.3espp.top:80/series/96448/45841/1467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okrCzuBdgSgR0Q7PMCR6S3SoXf3.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E02
+http://c1.3espp.top:80/series/96448/45841/1468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4DZBi0wuYq6sTfc5iwWotEmDHR.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E03
+http://c1.3espp.top:80/series/96448/45841/1469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/desjcZNEHBygz1ShfIopgg3UuDR.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E04
+http://c1.3espp.top:80/series/96448/45841/1470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djaCzdxePRjJKLfSo84TFfm1LsV.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E05
+http://c1.3espp.top:80/series/96448/45841/1471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E06
+http://c1.3espp.top:80/series/96448/45841/1472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sreCVzy0sNNYSkUFMKEyQUYsZag.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E07
+http://c1.3espp.top:80/series/96448/45841/1473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q6Qu74ikarIe3shmVXkcbIb0Ro.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E08
+http://c1.3espp.top:80/series/96448/45841/1474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRpOLgMowMBfQQ3UyvtenIfCRAG.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E01
+http://c1.3espp.top:80/series/96448/45841/1475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGqxSimN45aThV21Q1ghPZs6sX8.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E02
+http://c1.3espp.top:80/series/96448/45841/1476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl0urM8ilpbZwwuelDe49ovT8qn.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E03
+http://c1.3espp.top:80/series/96448/45841/1477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2y3cb9zZHmMEnlKazZm2mzVOms.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E04
+http://c1.3espp.top:80/series/96448/45841/1478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHHxdgaIKVxt2XBCiahxmlRYC8G.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E05
+http://c1.3espp.top:80/series/96448/45841/1479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlLYnkSwvHooBauhPCJ7o4nZxpP.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E06
+http://c1.3espp.top:80/series/96448/45841/1480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLVI0BFmEYvUn1Aqm7N2WiCAKqF.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E07
+http://c1.3espp.top:80/series/96448/45841/1481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E01
+http://c1.3espp.top:80/series/96448/45841/1482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71i63q3dtI3iSaEifHS72AvRbsl.jpg" group-title="NETFLIX 2022",Lupin S01 E02
+http://c1.3espp.top:80/series/96448/45841/1483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VcD2tQw5epoBmc8JyNGpVniV8X.jpg" group-title="NETFLIX 2022",Lupin S01 E03
+http://c1.3espp.top:80/series/96448/45841/1484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W14cjDqiXJTM3eVhoBPSujMy6D.jpg" group-title="NETFLIX 2022",Lupin S01 E04
+http://c1.3espp.top:80/series/96448/45841/1485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E05
+http://c1.3espp.top:80/series/96448/45841/1486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfpWnI2oJktIFD0hBoZ91fIPQ7n.jpg" group-title="NETFLIX 2022",Lupin S01 E06
+http://c1.3espp.top:80/series/96448/45841/1487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppOlBCFMZ6OoFNlqboSuxAzYlGV.jpg" group-title="NETFLIX 2022",Lupin S01 E07
+http://c1.3espp.top:80/series/96448/45841/1488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zToF3bdwh0oSpaAbrHezZ7H8lx.jpg" group-title="NETFLIX 2022",Lupin S01 E08
+http://c1.3espp.top:80/series/96448/45841/1489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgsXccjn6bVFqJwtTr97WuOm1Z9.jpg" group-title="NETFLIX 2022",Lupin S01 E09
+http://c1.3espp.top:80/series/96448/45841/1490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r8dgHAINYk6SuZvKbjS0df8Rjs.jpg" group-title="NETFLIX 2022",Lupin S01 E10
+http://c1.3espp.top:80/series/96448/45841/1491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt5GGkLxakkGdGXoSFgVARuNTNS.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E01
+http://c1.3espp.top:80/series/96448/45841/1492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E02
+http://c1.3espp.top:80/series/96448/45841/1493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSwwHULmMBbB6O2QrIuTgHsPih.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E03
+http://c1.3espp.top:80/series/96448/45841/1494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbDApLaF8BcGFcUewLS75SHhJpZ.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E04
+http://c1.3espp.top:80/series/96448/45841/1495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWea9cyjvvr3t0TDSXT61bS2Mp4.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E05
+http://c1.3espp.top:80/series/96448/45841/1496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xazVycQz6uXiFqzpQkZuwj7CA7t.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E06
+http://c1.3espp.top:80/series/96448/45841/1497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xihwa7x4Ymu539OFVEx9MfFkAHf.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E07
+http://c1.3espp.top:80/series/96448/45841/1498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMd5kdYVf4QCXSbwWcSeAVwhfwb.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E08
+http://c1.3espp.top:80/series/96448/45841/1499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1P3aRLgSSEdxcNXjw1SnZZK06A.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E01
+http://c1.3espp.top:80/series/96448/45841/1682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0Zrhay3PeNoUQHBvUXHUR8tUtR.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E02
+http://c1.3espp.top:80/series/96448/45841/1683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5vo6T9YgULj0J57X6MWAyw5Cfr.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E03
+http://c1.3espp.top:80/series/96448/45841/1684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keIJO5cbMfO7Z9C6tbdPCHAxr92.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E04
+http://c1.3espp.top:80/series/96448/45841/1685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIKZpW8EWszcleaqHYn85FL80A3.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E05
+http://c1.3espp.top:80/series/96448/45841/1686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RsW5WIWuRCk5tAEaMhtwIRG52.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E06
+http://c1.3espp.top:80/series/96448/45841/1687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bSfW2zD40D37nDZfwR6U9H9P5N.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E07
+http://c1.3espp.top:80/series/96448/45841/1688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myoCilBffb3Q0vVUpw32jC98rYG.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E08
+http://c1.3espp.top:80/series/96448/45841/1689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E09
+http://c1.3espp.top:80/series/96448/45841/1690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E10
+http://c1.3espp.top:80/series/96448/45841/1691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E11
+http://c1.3espp.top:80/series/96448/45841/1692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E12
+http://c1.3espp.top:80/series/96448/45841/1693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E13
+http://c1.3espp.top:80/series/96448/45841/1694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E14
+http://c1.3espp.top:80/series/96448/45841/1695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E15
+http://c1.3espp.top:80/series/96448/45841/1696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E16
+http://c1.3espp.top:80/series/96448/45841/1697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NJnHwvVYUvXJvr1rEeEAbamFUE.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E01
+http://c1.3espp.top:80/series/96448/45841/1617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wsFf0ZWCW78SkkGFPVEkskxG0d.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E02
+http://c1.3espp.top:80/series/96448/45841/1618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euRkIj85DOZJHzPrqA2zmerCVpl.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E03
+http://c1.3espp.top:80/series/96448/45841/1619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PeLxStxM0rqzdPyRlKz5AQMJqc.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E04
+http://c1.3espp.top:80/series/96448/45841/1620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khmtpjFIZ0JWw1C8z20sy7OILsF.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E05
+http://c1.3espp.top:80/series/96448/45841/1621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9szXtfrtyuJHY2sAo7aMNCIiBP.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E06
+http://c1.3espp.top:80/series/96448/45841/1622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKuIgaOFi3h4mW1K7pXRdRMg2ns.jpg" group-title="NETFLIX 2022",Comando Queer S01 E01
+http://c1.3espp.top:80/series/96448/45841/1623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8KLxqCKlDO24JE8vDS0JXWDnsU.jpg" group-title="NETFLIX 2022",Comando Queer S01 E02
+http://c1.3espp.top:80/series/96448/45841/1624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FRsWqnD88xOY58auEOfKtBgcx2.jpg" group-title="NETFLIX 2022",Comando Queer S01 E03
+http://c1.3espp.top:80/series/96448/45841/1625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TGSmxnfu7j7hWhFOcDczko3KlT.jpg" group-title="NETFLIX 2022",Comando Queer S01 E04
+http://c1.3espp.top:80/series/96448/45841/1626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejrT8HjJPGdwoBHH2sOwPDzHAAA.jpg" group-title="NETFLIX 2022",Comando Queer S01 E05
+http://c1.3espp.top:80/series/96448/45841/1627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkTdXZqsWRdA2EYnpuBasj3hjg9.jpg" group-title="NETFLIX 2022",Comando Queer S01 E06
+http://c1.3espp.top:80/series/96448/45841/1628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thAKIkFOuFjU3Xe7kdrbhF1nvFU.jpg" group-title="NETFLIX 2022",Comando Queer S01 E07
+http://c1.3espp.top:80/series/96448/45841/1629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byF5d5QbKVtPwUUSimjlS551SWC.jpg" group-title="NETFLIX 2022",Comando Queer S01 E08
+http://c1.3espp.top:80/series/96448/45841/1630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2ncmNRJYGGGxyN24Nq2sT8NzVj.jpg" group-title="NETFLIX 2022",Comando Queer S01 E09
+http://c1.3espp.top:80/series/96448/45841/1631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJKvl0tt5CgPjFLWItaIp4OQnnp.jpg" group-title="NETFLIX 2022",Comando Queer S01 E10
+http://c1.3espp.top:80/series/96448/45841/1632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6rFDeAaE0TVbhAPrHCiCXuNO0J.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E01
+http://c1.3espp.top:80/series/96448/45841/1633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhbUVz4Zwcbbug4d15evQVxFFm9.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E02
+http://c1.3espp.top:80/series/96448/45841/1634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyhig6Z4brHhCR9oNF74ihDEWjz.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E03
+http://c1.3espp.top:80/series/96448/45841/1635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyFcjlX6Y2OLio2uhoUpCXuAJed.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E04
+http://c1.3espp.top:80/series/96448/45841/1636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UNimNRUkZen6ShpfFNjoS1dVpx.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E05
+http://c1.3espp.top:80/series/96448/45841/1637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctcFLIeynMSxHB0S4ZgoDnLf0QR.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E06
+http://c1.3espp.top:80/series/96448/45841/1638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qU4aJL0wG1ui7sMKayFKorSEKRF.jpg" group-title="NETFLIX 2022",Dealer S01 E01
+http://c1.3espp.top:80/series/96448/45841/1639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAqRMI4fnzbvsFVId7yFQBIRq9h.jpg" group-title="NETFLIX 2022",Dealer S01 E02
+http://c1.3espp.top:80/series/96448/45841/1640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1K9AFC75aA1MSMjrg53zgI7uud.jpg" group-title="NETFLIX 2022",Dealer S01 E03
+http://c1.3espp.top:80/series/96448/45841/1641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW1n9NoqyxgjYBC4g28XYkt91Y1.jpg" group-title="NETFLIX 2022",Dealer S01 E04
+http://c1.3espp.top:80/series/96448/45841/1642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPLLHfExk1ccKrbFkHkVpaJRZWv.jpg" group-title="NETFLIX 2022",Dealer S01 E05
+http://c1.3espp.top:80/series/96448/45841/1643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E06
+http://c1.3espp.top:80/series/96448/45841/1644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joj6UQ3DlSQ2kK4uIei466XnbPX.jpg" group-title="NETFLIX 2022",Dealer S01 E07
+http://c1.3espp.top:80/series/96448/45841/1645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq9lGytGN426nacCEtEauL57ZKb.jpg" group-title="NETFLIX 2022",Dealer S01 E08
+http://c1.3espp.top:80/series/96448/45841/1646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzA3bUiUnKKprYtUElOViaWRYjL.jpg" group-title="NETFLIX 2022",Dealer S01 E09
+http://c1.3espp.top:80/series/96448/45841/1647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E01
+http://c1.3espp.top:80/series/96448/45841/1648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIEfw5jOLSsJw0BtqICUKSgD9AM.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E02
+http://c1.3espp.top:80/series/96448/45841/1649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqsHUt1mT4Jp5poZumTr25nf6bg.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E03
+http://c1.3espp.top:80/series/96448/45841/1650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3de4Xgkcmcb0romOCPUPUyyyJKi.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E04
+http://c1.3espp.top:80/series/96448/45841/1651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3de4Xgkcmcb0romOCPUPUyyyJKi.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E05
+http://c1.3espp.top:80/series/96448/45841/1652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biBod3UGXipsJXtGiigbIKM1kle.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E01
+http://c1.3espp.top:80/series/96448/45841/1661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv1HmwMzzWtkjbkefhD9fsgBLIQ.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E02
+http://c1.3espp.top:80/series/96448/45841/1662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dHH63EBSvYjDwdKaSpgcJ4DMx4.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E03
+http://c1.3espp.top:80/series/96448/45841/1663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw6huHKyFWGw7Zf519rWDTMvZ0k.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E04
+http://c1.3espp.top:80/series/96448/45841/1664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qIvuELNl45mBgPJHD5qimlWv8.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E05
+http://c1.3espp.top:80/series/96448/45841/1665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7vBSiRhGXxbMLaXWIqilTbDwJV.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E06
+http://c1.3espp.top:80/series/96448/45841/1666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E01
+http://c1.3espp.top:80/series/96448/45841/1667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFL0oOu1Ut9Rx2PTYn99OVqKz9J.jpg" group-title="NETFLIX 2022",Hit & Run S01 E02
+http://c1.3espp.top:80/series/96448/45841/1668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n0wPtuTi91WzEYSc4FDSGbwNCZ.jpg" group-title="NETFLIX 2022",Hit & Run S01 E03
+http://c1.3espp.top:80/series/96448/45841/1669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G3CVmtW6MaSZYhcYzsQgn65E50.jpg" group-title="NETFLIX 2022",Hit & Run S01 E04
+http://c1.3espp.top:80/series/96448/45841/1670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75KBOoYmPa59Urgsl9zin4RAnCG.jpg" group-title="NETFLIX 2022",Hit & Run S01 E05
+http://c1.3espp.top:80/series/96448/45841/1671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTOKLqIDEMZsj1Dqu3trABgz7GD.jpg" group-title="NETFLIX 2022",Hit & Run S01 E06
+http://c1.3espp.top:80/series/96448/45841/1672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv82eQrBS10pp1huHf1Yd2M8pfd.jpg" group-title="NETFLIX 2022",Hit & Run S01 E07
+http://c1.3espp.top:80/series/96448/45841/1673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV2ZHlhVXIwpwTNBWxZQUY774HC.jpg" group-title="NETFLIX 2022",Hit & Run S01 E08
+http://c1.3espp.top:80/series/96448/45841/1674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjkY75omSdD91fuSZNbeYIxxIeo.jpg" group-title="NETFLIX 2022",Hit & Run S01 E09
+http://c1.3espp.top:80/series/96448/45841/1675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC7lweJkh5Uw2ce9GXNWGRAybz5.jpg" group-title="NETFLIX 2022",Jaguar S01 E01
+http://c1.3espp.top:80/series/96448/45841/1676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DpKsaVrmjZhXgczOvEfG3a0Gd8.jpg" group-title="NETFLIX 2022",Jaguar S01 E02
+http://c1.3espp.top:80/series/96448/45841/1677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXIBAgJv1wsNZoCvz5RqBfobugx.jpg" group-title="NETFLIX 2022",Jaguar S01 E03
+http://c1.3espp.top:80/series/96448/45841/1678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3D6wunOO0alck3pFMQ2y9WQWHy.jpg" group-title="NETFLIX 2022",Jaguar S01 E04
+http://c1.3espp.top:80/series/96448/45841/1679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uXOz9jVA1Ma1NsR7I5Cdo9jJbc.jpg" group-title="NETFLIX 2022",Jaguar S01 E05
+http://c1.3espp.top:80/series/96448/45841/1680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhBOA92XkH0SLtcY1V2ex8BBy9K.jpg" group-title="NETFLIX 2022",Jaguar S01 E06
+http://c1.3espp.top:80/series/96448/45841/1681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkLyxnI9pKsfUoABbrb5z8xtmJJ.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E01
+http://c1.3espp.top:80/series/96448/45841/1653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mp86HhN05qFj1FJ6EhMUJwjzqR.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E02
+http://c1.3espp.top:80/series/96448/45841/1654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miskGgAVDWk3bfl6049OTcH4yyk.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E03
+http://c1.3espp.top:80/series/96448/45841/1655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDiSZSb7Mq2oMJBEEXIqTzQtH9Y.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E04
+http://c1.3espp.top:80/series/96448/45841/1656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daLuedUIJKNmQBjXBccU46XF1Do.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E05
+http://c1.3espp.top:80/series/96448/45841/1657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFVODVGmnV9f4z3PkZHdjoBPhNM.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E06
+http://c1.3espp.top:80/series/96448/45841/1658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN4kx98cYf8tI8sClq6evnCMcEf.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E07
+http://c1.3espp.top:80/series/96448/45841/1659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsyd0XggnfX0STjJTTxth7zk6hk.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E08
+http://c1.3espp.top:80/series/96448/45841/1660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dyTlBtmKTW1cfqakEVr7kDbISb.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E01
+http://c1.3espp.top:80/series/96448/45841/1698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dyTlBtmKTW1cfqakEVr7kDbISb.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E02
+http://c1.3espp.top:80/series/96448/45841/1748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAScAFI3HIpeN5WtNF58ahuktIR.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E03
+http://c1.3espp.top:80/series/96448/45841/1749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAScAFI3HIpeN5WtNF58ahuktIR.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E04
+http://c1.3espp.top:80/series/96448/45841/1699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAhonDUEeYm0uG4E1zAEidJxNwH.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E05
+http://c1.3espp.top:80/series/96448/45841/1750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAhonDUEeYm0uG4E1zAEidJxNwH.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E06
+http://c1.3espp.top:80/series/96448/45841/1700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E07
+http://c1.3espp.top:80/series/96448/45841/1751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/621EQ7Cy57Z9ghSZ2pLic6XDXKE.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E08
+http://c1.3espp.top:80/series/96448/45841/1701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UN1Fk8i7ZDWMhmkV9J1pXvkCQO.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E09
+http://c1.3espp.top:80/series/96448/45841/1702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UN1Fk8i7ZDWMhmkV9J1pXvkCQO.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E10
+http://c1.3espp.top:80/series/96448/45841/1752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rndNIyeYbPRdBUh1n1fjXrX1Dzy.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E11
+http://c1.3espp.top:80/series/96448/45841/1703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rndNIyeYbPRdBUh1n1fjXrX1Dzy.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E12
+http://c1.3espp.top:80/series/96448/45841/1753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/323q5PNXw9s3GfEvqrj7iq3xm5d.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E13
+http://c1.3espp.top:80/series/96448/45841/1754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/323q5PNXw9s3GfEvqrj7iq3xm5d.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E14
+http://c1.3espp.top:80/series/96448/45841/1704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etFWjgo5sXnAZH7l1LJ21NSo7SJ.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E15
+http://c1.3espp.top:80/series/96448/45841/1705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etFWjgo5sXnAZH7l1LJ21NSo7SJ.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E16
+http://c1.3espp.top:80/series/96448/45841/1755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaE9vmDukuh4wOKPIYfiStMEnki.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E01
+http://c1.3espp.top:80/series/96448/45841/1706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l85Xa6GsZreSQBSv65gdBU0mgOf.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E02
+http://c1.3espp.top:80/series/96448/45841/1707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL4IKGCgq0DFSXhr2BYc6omvVjp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E03
+http://c1.3espp.top:80/series/96448/45841/1708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8W5qDzJSniqAm6iaTmBHVa9PYIf.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E04
+http://c1.3espp.top:80/series/96448/45841/1709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9du4Z86IfhGDKXAxZ6tC3KlkVoc.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E05
+http://c1.3espp.top:80/series/96448/45841/1710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUoNxl6E77fApEPSpB7XcyD7WNH.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E06
+http://c1.3espp.top:80/series/96448/45841/1711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpQW0wbFaaay5ss0XmQXK9JuTvZ.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E07
+http://c1.3espp.top:80/series/96448/45841/1712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xCs1VipcxT3XFjJ1GzzQAsTNKY.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E08
+http://c1.3espp.top:80/series/96448/45841/1713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v774EyGjYM82ii9kfDWidsmMmdN.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E01
+http://c1.3espp.top:80/series/96448/45841/1602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q2fGb1QoyJR0V3vl5RVmYDNKfT.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E02
+http://c1.3espp.top:80/series/96448/45841/1603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4dDHeXjOkLguTDPIPUKQEqCL08.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E03
+http://c1.3espp.top:80/series/96448/45841/1604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mO9fNP3wOScp9xrjvX4ehbhGoqy.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E04
+http://c1.3espp.top:80/series/96448/45841/1605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlZAXlWQLgReNtPyPfZFnXEk6LP.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E05
+http://c1.3espp.top:80/series/96448/45841/1606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDjZKP7uNqu7LlIASGQ9A7ylSnW.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E06
+http://c1.3espp.top:80/series/96448/45841/1607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhTwSB0l5vgfaBmyWHFkgd67w30.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E01
+http://c1.3espp.top:80/series/96448/45841/1594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfGf0aRdVRxfPoFx1pYjIdf8LMG.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E02
+http://c1.3espp.top:80/series/96448/45841/1595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGhKIfTk5RbonnBtkUDDTsJtgeg.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E03
+http://c1.3espp.top:80/series/96448/45841/1596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PxPFMGwVOjOr76HwkjOSYP3S7Z.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E04
+http://c1.3espp.top:80/series/96448/45841/1597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHdkIvEprFPwVWb5XXVVKlK78M7.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E05
+http://c1.3espp.top:80/series/96448/45841/1598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txp8bSptojulPgRNG55p1VPczBI.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E06
+http://c1.3espp.top:80/series/96448/45841/1599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyMdvFpLSUPzMzl8N4OkMC1IzdQ.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E07
+http://c1.3espp.top:80/series/96448/45841/1600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44lsz0j5ePcaVsCPZsYQLQjYJKn.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E08
+http://c1.3espp.top:80/series/96448/45841/1601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="NETFLIX 2022",Bárbaros S01 E01
+http://c1.3espp.top:80/series/96448/45841/1714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u5Ze3tYGA23eCQcxQLLqhnKgw5.jpg" group-title="NETFLIX 2022",Bárbaros S01 E02
+http://c1.3espp.top:80/series/96448/45841/1715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh5Qa7qAqep2s6poMtMek1fnVOe.jpg" group-title="NETFLIX 2022",Bárbaros S01 E03
+http://c1.3espp.top:80/series/96448/45841/1716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2tSVhtcHL1sZQ6sNHuaApG7os4.jpg" group-title="NETFLIX 2022",Bárbaros S01 E04
+http://c1.3espp.top:80/series/96448/45841/1717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJrMniDIkTeiCIjMncW8G5oiNdu.jpg" group-title="NETFLIX 2022",Bárbaros S01 E05
+http://c1.3espp.top:80/series/96448/45841/1718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfDHMtSg0sXPzhDJJuouWJY7asL.jpg" group-title="NETFLIX 2022",Bárbaros S01 E06
+http://c1.3espp.top:80/series/96448/45841/1719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FyxMUuvH0IeNLonDxigYdotPDw.jpg" group-title="NETFLIX 2022",Betaal S01 E01
+http://c1.3espp.top:80/series/96448/45841/1726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnNu9ix2g9DXPq7uqRDyeD2RK9.jpg" group-title="NETFLIX 2022",Betaal S01 E02
+http://c1.3espp.top:80/series/96448/45841/1727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKT6j5QaGO7YRBqJAsxJdgLaJ3O.jpg" group-title="NETFLIX 2022",Betaal S01 E03
+http://c1.3espp.top:80/series/96448/45841/1728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vokPNIgiFWgStFUbdHieJ5hkivY.jpg" group-title="NETFLIX 2022",Betaal S01 E04
+http://c1.3espp.top:80/series/96448/45841/1729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pb70YWUKnngm9EmrMyAjIL3UtB.jpg" group-title="NETFLIX 2022",Carta al rey S01 E01
+http://c1.3espp.top:80/series/96448/45841/1720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L2eGOGwUuqkvP8jK2hoY96NQPp.jpg" group-title="NETFLIX 2022",Carta al rey S01 E02
+http://c1.3espp.top:80/series/96448/45841/1721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hUsZTpogja6CA7bQHPEdNJGRmA.jpg" group-title="NETFLIX 2022",Carta al rey S01 E03
+http://c1.3espp.top:80/series/96448/45841/1722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JSUh0ZwvDuWZiGNEnXayz4s23i.jpg" group-title="NETFLIX 2022",Carta al rey S01 E04
+http://c1.3espp.top:80/series/96448/45841/1723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqxs8P9IVTm7HWiBXVzqOVly4lg.jpg" group-title="NETFLIX 2022",Carta al rey S01 E05
+http://c1.3espp.top:80/series/96448/45841/1724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsQjOjYXlczsrvnC3pXsGGVgBHV.jpg" group-title="NETFLIX 2022",Carta al rey S01 E06
+http://c1.3espp.top:80/series/96448/45841/1725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La facción Octubre S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcLtRytxFSxStNBLlBVNvGugXOp.jpg" group-title="NETFLIX 2022",La facción Octubre S01 E01
+http://c1.3espp.top:80/series/96448/45841/1730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esKvSpN04q7RNOLaFAVQ7rMHPM0.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E01
+http://c1.3espp.top:80/series/96448/45841/1731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/eZ8LNZJTP4x3TCegbZoa4d8rff3.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E02
+http://c1.3espp.top:80/series/96448/45841/1765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa6bpQCkqCdhG46ScTyybSjTzbd.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E03
+http://c1.3espp.top:80/series/96448/45841/1732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kHMThWnO26sX2fByQ7CKubV0Sam.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E04
+http://c1.3espp.top:80/series/96448/45841/1766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbTneiMXY4VxKCvz0k3vYCzKrHE.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E05
+http://c1.3espp.top:80/series/96448/45841/1733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8El8f3VUZS1XUG0BuNAOxBIPZL7.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E06
+http://c1.3espp.top:80/series/96448/45841/1734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AScKHUYngUAWEWsYjx0p80rLzl.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E07
+http://c1.3espp.top:80/series/96448/45841/1735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4it12A0QmFpNXLgDrWmHAWtlP1f.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E08
+http://c1.3espp.top:80/series/96448/45841/1736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oUs7yFKmm9BHamFBD2n2tOconO.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E09
+http://c1.3espp.top:80/series/96448/45841/1737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPwIIvNw260wnPlffGuBzM7M95T.jpg" group-title="NETFLIX 2022",Maldita S01 E01
+http://c1.3espp.top:80/series/96448/45841/1738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFSeLEizM4pDMbiQMepHO6D4BBg.jpg" group-title="NETFLIX 2022",Maldita S01 E02
+http://c1.3espp.top:80/series/96448/45841/1739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL6dnj1VMs10gIHlKlBjzGYH92T.jpg" group-title="NETFLIX 2022",Maldita S01 E03
+http://c1.3espp.top:80/series/96448/45841/1740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYt4CG5uaiYDWYZDJApxYI05jpR.jpg" group-title="NETFLIX 2022",Maldita S01 E04
+http://c1.3espp.top:80/series/96448/45841/1741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1e4ed5fTX6fjn7U4QgwPEMuNMi.jpg" group-title="NETFLIX 2022",Maldita S01 E05
+http://c1.3espp.top:80/series/96448/45841/1742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50bZp1HaNIEK520cRnTSu7nqk26.jpg" group-title="NETFLIX 2022",Maldita S01 E06
+http://c1.3espp.top:80/series/96448/45841/1743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y9qqdUJm7EEQ3JliSpk1tnIIZ5.jpg" group-title="NETFLIX 2022",Maldita S01 E07
+http://c1.3espp.top:80/series/96448/45841/1744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ps5VLhaCQIycuVwsfjz5gAAuz4.jpg" group-title="NETFLIX 2022",Maldita S01 E08
+http://c1.3espp.top:80/series/96448/45841/1745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seyN0KiYDhI2heUhLHXQErgiHXr.jpg" group-title="NETFLIX 2022",Maldita S01 E09
+http://c1.3espp.top:80/series/96448/45841/1746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJEaO2duBG0hzmlY1289pJwRSiz.jpg" group-title="NETFLIX 2022",Maldita S01 E10
+http://c1.3espp.top:80/series/96448/45841/1747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E01
+http://c1.3espp.top:80/series/96448/45841/1756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj0coMs0ih6NQHZgrrKHdXPUS0f.jpg" group-title="NETFLIX 2022",Animal S01 E02
+http://c1.3espp.top:80/series/96448/45841/1757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH9B9klxInG0z4vI6Dv9KxGjC7A.jpg" group-title="NETFLIX 2022",Animal S01 E03
+http://c1.3espp.top:80/series/96448/45841/1758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trpmse4CG2PSNo4s7Xc5NIAPfIM.jpg" group-title="NETFLIX 2022",Animal S01 E04
+http://c1.3espp.top:80/series/96448/45841/1759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E05
+http://c1.3espp.top:80/series/96448/45841/1760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E06
+http://c1.3espp.top:80/series/96448/45841/1761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E07
+http://c1.3espp.top:80/series/96448/45841/1762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E08
+http://c1.3espp.top:80/series/96448/45841/1763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E09
+http://c1.3espp.top:80/series/96448/45841/1764.mp4
